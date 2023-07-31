@@ -22,4 +22,4 @@ Since 2022, I am a member of the Institute of Astrophysics in Portugal, and work
 - Postdoc researcher, [Coimbra University](http://www.uc.pt/fctuc/dmat), Portugal, 2005-2006
 - PhD researcher, [Leiden University](https://www.universiteitleiden.nl/en/science/astronomy), Netherlands, 2000-2005
 
-Note: my homepage is slowly migrating from https://lacerdapedro.wordpress.com to here.
+Note: my homepage is slowly migrating from [https://lacerdapedro.wordpress.com](https://lacerdapedro.wordpress.com) to here.

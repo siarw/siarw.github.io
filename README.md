@@ -1,4 +1,4 @@
-# Pedro Lacerda's Homepage
+# Pedro Lacerda's homepage
 
 For the past twenty years, I have been employed in academia in five different countries, doing research in astronomy and astrophysics, and teaching mathematics, physics and astronomy.
 

@@ -5,8 +5,8 @@ Since 2022, I am a member of the Institute of Astrophysics in Portugal, and work
 
 ## Education
 
-- Graduated in Physics, 2000, [Universidade de Lisboa](https://ciencias.ulisboa.pt/), Portugal
-- PhD, 2005, [Leiden University]([url](http://www.leidenuniv.nl/)http://www.leidenuniv.nl/), The Netherlands
+- MSc in Physics, 2000, [Universidade de Lisboa](https://ciencias.ulisboa.pt/), Portugal
+- PhD in Astrophysics, 2005, [Leiden University]([url](http://www.leidenuniv.nl/)http://www.leidenuniv.nl/), The Netherlands
 
 ## Short CV
 

@@ -8,11 +8,11 @@ Slug: research
 
 My research deals with physical properties of small bodies of the solar system, mainly Kuiper belt objects (KBOs) and comets.  I also collaborate with medievalist [Marilina Cesario](https://pure.qub.ac.uk/portal/en/persons/marilina-cesario(82fd19a5-7adb-44f9-b4fd-94337114ef2a).html) to link medieval records of comet sightings to current theories of the evolution of the solar system.
 
--   [Binaries](binaries.md)
--   [Comets](comets.md)
--   [Density](density.md)
--   [Lightcurves](lightcurves-of-small-solar-system-bodies.md)
--   [Medieval comets](marvelling-at-the-skies-comets-through-the-eyes-of-the-anglo-saxons.md)
+-   [Binaries](binaries)
+-   [Comets](comets)
+-   [Density](density)
+-   [Lightcurves](lightcurves-of-small-solar-system-bodies)
+-   [Medieval comets](marvelling-at-the-skies-comets-through-the-eyes-of-the-anglo-saxons)
 
 
 #### All Publications

@@ -8,19 +8,19 @@ Status: published
 
 # Binaries
 
-The last decade witnessed the discovery of numerous binaries in nearly every small-body population in the solar system and the realisation that such objects are much more abundant than had been anticipated. This could mean that binaries are abundant in [exoplanet systems](exobinaries.md) as well.
+The last decade witnessed the discovery of numerous binaries in nearly every small-body population in the solar system and the realisation that such objects are much more abundant than had been anticipated. This could mean that binaries are abundant in [exoplanet systems](exobinaries) as well.
 
 
 ### Resolved Binaries
 
-Most known KBO binaries are [resolved](resolved-binaries.md). That means the two binary components [can be seen](angular-resolution.md) in images taken by telescopes, mostly by Hubble which is in space and does not suffer from [atmospheric distortion](angular-resolution.md) of the images. You can read more about resolved binaries [here](resolved-binaries.md).
+Most known KBO binaries are [resolved](resolved-binaries). That means the two binary components [can be seen](angular-resolution) in images taken by telescopes, mostly by Hubble which is in space and does not suffer from [atmospheric distortion](angular-resolution) of the images. You can read more about resolved binaries [here](resolved-binaries).
 
 
 ### Contact Binaries
 
 ![Figure 1 – Model of a contact binary.]({static}/images/2013/03/contact-binary.gif)
 
-A particularly interesting subset of the binary population are the contact binaries which are identified from their extremely variable [lightcurves](lightcurves-of-small-solar-system-bodies.md) (∆m\>0.9 mag; see Figures 1 & 2). So far, 1 contact binary has been identified in the Kuiper belt and 3 contact binaries have been found in the Trojans ([Mann, Jewitt & Lacerda 2007](http://goo.gl/QRZjh)). These discoveries suggest high intrinsic contact binaries abundances (\>10%; [Lacerda 2011](http://lacerdapedro.wordpress.com/extreme-and-extremely-tilted-kbo/ "Extreme and Extremely Tilted KBO")) among both Trojans and KBOs.
+A particularly interesting subset of the binary population are the contact binaries which are identified from their extremely variable [lightcurves](lightcurves-of-small-solar-system-bodies) (∆m\>0.9 mag; see Figures 1 & 2). So far, 1 contact binary has been identified in the Kuiper belt and 3 contact binaries have been found in the Trojans ([Mann, Jewitt & Lacerda 2007](http://goo.gl/QRZjh)). These discoveries suggest high intrinsic contact binaries abundances (\>10%; [Lacerda 2011](http://lacerdapedro.wordpress.com/extreme-and-extremely-tilted-kbo/ "Extreme and Extremely Tilted KBO")) among both Trojans and KBOs.
 
 ### Hektor
 

@@ -19,7 +19,7 @@ The comets we currently see have left their cold reservoirs possibly due to pert
 
 ### Relevant links
 
-In the past, I have led a [Max Planck Research group in Cometary Science](cometary-science.md "Cometary Science") to analyse the results of the Rosetta mission in the context of the formation and evolution of the solar system.
+In the past, I have led a [Max Planck Research group in Cometary Science](cometary-science "Cometary Science") to analyse the results of the Rosetta mission in the context of the formation and evolution of the solar system.
 
 The images and data we are getting from [comet 67P](http://lacerdapedro.wordpress.com/the-nucleus-of-comet-67p/ "The nucleus of comet 67P") never cease to surprise us.
 

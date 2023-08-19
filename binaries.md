@@ -18,7 +18,7 @@ Most known KBO binaries are [resolved](resolved-binaries). That means the two b
 
 ### Contact Binaries
 
-![Figure 1 – Model of a contact binary.]({static}/images/2013/03/contact-binary.gif)
+![Figure 1 – Model of a contact binary.](figs/2013/03/contact-binary.gif)
 
 A particularly interesting subset of the binary population are the contact binaries which are identified from their extremely variable [lightcurves](lightcurves-of-small-solar-system-bodies) (∆m\>0.9 mag; see Figures 1 & 2). So far, 1 contact binary has been identified in the Kuiper belt and 3 contact binaries have been found in the Trojans ([Mann, Jewitt & Lacerda 2007](http://goo.gl/QRZjh)). These discoveries suggest high intrinsic contact binaries abundances (\>10%; [Lacerda 2011](http://lacerdapedro.wordpress.com/extreme-and-extremely-tilted-kbo/ "Extreme and Extremely Tilted KBO")) among both Trojans and KBOs.
 

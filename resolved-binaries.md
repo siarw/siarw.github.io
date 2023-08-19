@@ -53,7 +53,7 @@ As seen above, binaries cluster at mass ratios close to 1, meaning that the two
 
 The binary separation (semi-major axis of the binary orbit) statistics indicates that there are more compact binaries than very distant ones. The spatial resolution of the surveys looking for binaries become the limiting factor in detecting more and more compact binaries. Binaries more compact than about 100 milliarcsec angular separation are probably hard to detect, even with the Hubble Space Telescope.
 
-![Histogram of KBO binary semimajor axis (or mean separation). The angular resolution limits shown as vertical lines assume the binary is at 40 AU. Separations to the left of the lines are undetectable. Most binaries were probably limited at angular separations of 100 milliarcsec.](figs/2015/06/2015-06-26-binary-separation.png)
+![Histogram of KBO binary semimajor axis (or mean separation). The angular resolution limits shown as vertical lines assume the binary is at 40 AU. Separations to the left of the lines are undetectable. Most binaries were probably limited at angular separations of 100 milliarcsec.](figs/2015/06/2015-06-26-binary-separation.png?w=300)
 
 Pedro Lacerda, June 2015
 

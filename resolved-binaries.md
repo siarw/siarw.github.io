@@ -43,7 +43,10 @@ The absolute magnitude of binaries is clustered around 6\<Hv\<8. However, it is 
 
 The two components in each binary tend to have similar magnitudes. This is true even accounting for observational biases.
 
-![Magnitudes of primary and secondary for each binary. Lines mark approximate mass ratios assuming the components have the same density and albedo.](figs/2015/06/2015-06-26-binary-magnitude-difference1.png | w=200)
+<figure>
+<img src="figs/2015/06/2015-06-26-binary-magnitude-difference1.png" alt="Magnitudes of primary and secondary for each binary. Lines mark approximate mass ratios assuming the components have the same density and albedo." width=200 />
+<figcaption>Magnitudes of primary and secondary for each binary. Lines mark approximate mass ratios assuming the components have the same density and albedo.</figcaption>
+</figure>
 
 As seen above, binaries cluster at mass ratios close to 1, meaning that the two components of each binary tend to have similar masses. The masses were calculated assuming that the components have the same density and albedo.
 

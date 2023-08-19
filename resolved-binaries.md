@@ -56,3 +56,5 @@ The binary separation (semi-major axis of the binary orbit) statistics indicates
 ![Histogram of KBO binary semimajor axis (or mean separation). The angular resolution limits shown as vertical lines assume the binary is at 40 AU. Separations to the left of the lines are undetectable. Most binaries were probably limited at angular separations of 100 milliarcsec.](figs/2015/06/2015-06-26-binary-separation.png)
 
 Pedro Lacerda, June 2015
+
+Back to [Research](research).

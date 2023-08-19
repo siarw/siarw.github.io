@@ -15,13 +15,13 @@ My research deals with physical properties of small bodies of the solar system, 
 -   [Medieval comets](marvelling-at-the-skies-comets-through-the-eyes-of-the-anglo-saxons)
 
 
-#### All Publications
+## Publications
 
 -   [Astrophysics Data System](https://tinyurl.com/y2lg6mfj)
 -   [Google Scholar](http://goo.gl/BSYsuH)
 
 
-### News, Results and Publications
+## News, Results and Publications
 
 -   PAPER [Implications of the small spin changes measured for large Jupiter-family comet nuclei](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.479.4665K/abstract) ([PDF](https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.479.4665K/EPRINT_PDF))
 -   VIDEO "[How medieval monks are revealing our universe's secrets](https://www.bbc.co.uk/ideas/videos/how-medieval-monks-are-revealing-our-universes-sec/p07jljv5)" in BBC Ideas

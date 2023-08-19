@@ -1,10 +1,14 @@
+---
 Title: The Shapes of Kuiper Belt Objects
 Date: 2013-09-18 10:47
 Author: Pedro Lacerda
 Slug: the-shapes-of-kuiper-belt-objects
 Status: published
+---
 
-### We cannot see the shapes of Kuiper Belt Objects
+# The Shapes of Kuiper Belt Objects
+
+## We cannot see the shapes of Kuiper Belt Objects
 
 Kuiper Belt objects (KBOs) are too far for us to be able to resolve their shapes — they appear point-like, just like stars. If their shapes cannot be measured directly then we must infer them from other things we can measure.
 

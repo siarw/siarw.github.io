@@ -12,7 +12,7 @@ I am interested in the possibility of finding binary exoplanets. In the final ph
 
 Here, I report on what the transit lightcurve of a binary exoplanet would look like. I simulate the orbit of the exobinary around a star using an N-body code (mercury6, [Chambers 1999](http://tinyurl.com/5v9oz8y)), then extract the transit part and render it using the ray-tracing technique used in [Lacerda & Jewitt 2007](https://www.doi.org/10.48550/arXiv.astro-ph/0612237).
 
-### Corot-9b
+## Corot-9b
 
 First let's look at a simulation of a single exoplanet. I will use [Corot-9b](http://exoplanets.org/cgi-bin/planet.py/CoRoT-9_b) for this exercise. Corot-9b has a \~95 day orbit around G3 V star of mass 1 Msun. I assumed the star has a radius 1 Rsun.
 
@@ -31,7 +31,7 @@ Assuming no stellar limb-darkening, the transit lightcurve of this synthetic Cor
 
 ![C9b](figs/2013/03/c9b.png)
 
-### Exobinary
+## Exobinary
 
 Now I will simulate a symmetric exobinary based on Corot-9b. I assume the binary has the same total mass and maximum cross-section as the single planet. So, each of the two identical components should have the following physical parameters:
 
@@ -51,7 +51,7 @@ The lightcurves of the 4 consecutive transits are shown below. The red, dotted l
 
 ![LightcurvesC9bExobinary](figs/2013/03/lightcurvesc9bexobinary.png)
 
-### Different sized components
+## Different sized components
 
 Here is a [simulation](http://api.soundcloud.com/tracks/41578691) of 36 consecutive transits from a system where the exobinary components have a mass ratio of 8 and are separated by 0.1 mutual Hill radii. Watch the movie at [this link](http://api.soundcloud.com/tracks/41578691).
 <!-- \[youtube http://www.youtube.com/watch?v=28PWhf1XXLw\] -->
@@ -60,7 +60,7 @@ The 36 transit lightcurves look like this:
 
 ![LightcurvesC9bExobinary36](figs/2013/03/lightcurvesc9bexobinary36.png)
 
-### Exobinary detection using the secondary transit and mutual shadowing
+## Exobinary detection using the secondary transit and mutual shadowing
 
 Another way to detect exobinaries is to look for mutual eclipses. The secondary transit and exobinary mutual eclipses will be significantly easier to detect in the far-infrared, e.g. using ALMA, where the stellar flux becomes relatively less important.
 

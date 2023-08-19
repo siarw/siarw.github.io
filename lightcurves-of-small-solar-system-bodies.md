@@ -8,7 +8,7 @@ Status: published
 
 # Lightcurves of small solar system bodies
 
-### What is a lightcurve?
+## What is a lightcurve?
 
 
 A non-spherical\* body rotating in free space will reflect more or less sunlight depending on which side is facing the observer. An elongated object will reflect more light from its larger flank-side than from its smaller tip-side. The lightcurve is the brightness variation as a function of time. In general, the lightcurve is periodic (period is the spin period of the body) and its range of variation will depend on how elongated the body is.
@@ -25,7 +25,7 @@ A spherical object can also produce a lightcurve if its surface is spotty. If so
 
 
 
-### Types of lightcurves
+## Types of lightcurves
 
 
 
@@ -40,7 +40,7 @@ Different systems produce different lightcurves. One of the main distinguishing 
 
 
 
-### What can we learn about small bodies using lightcurves?
+## What can we learn about small bodies using lightcurves?
 
 
 
@@ -58,7 +58,7 @@ Besides the [rotation period](the-rotational-properties-of-kuiper-belt-objects.m
 
 
 
-### Relevant publications
+## Relevant publications
 
 
 

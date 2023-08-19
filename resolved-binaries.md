@@ -21,25 +21,25 @@ The main conclusions on resolved KBO binaries from the plots below are:
 
 Below I show a number of plots that use data from [Will Grundy's Binary TNOs page](http://www2.lowell.edu/~grundy/tnbs/).
 
-### Number of binaries per dynamical class in the Kuiper belt
+## Number of binaries per dynamical class in the Kuiper belt
 
 First, let us look at the known binaries by dynamical family. Most binaries exist in the Classical KBO population. This has been known for some time ([Stephens & Noll 2006](http://labs.adsabs.harvard.edu/adsabs/abs/2006AJ....131.1142S/)).
 
 ![Binaries per dynamic family.](figs/2015/06/2015-06-24-binaries-per-dynamical-family.png)
 
-### Heliocentric inclination of KBO binaries
+## Heliocentric inclination of KBO binaries
 
 If we now plot the orbital inclination distribution of the binaries we find that most binaries are located at low inclinations ([Noll et al. 2008](http://labs.adsabs.harvard.edu/adsabs/abs/2008Icar..194..758N/)).
 
 ![Orbital inclination distribution of KBO binaries.](figs/2015/06/2015-06-24-binaries-inclination.png)
 
-### Absolute magnitude of KBO binaries
+## Absolute magnitude of KBO binaries
 
 The absolute magnitude of binaries is clustered around 6\<Hv\<8. However, it is not incompatible with the Hv distribution of KBOs as a whole. In conclusion, binaries do not pick a particular absolute magnitude - they exist at all brightnesses.
 
 ![Left: Binaries Magnitude Distribution. Right: Comparison to magnitude distribution of KBOs (only KBOs in the magnitude range of binaries were considered).](figs/2015/06/2015-06-25-binaries-absolute-magnitude-vs-all-kbos1.png)
 
-### Relative brightness and mass of the binary components
+## Relative brightness and mass of the binary components
 
 The two components in each binary tend to have similar magnitudes. This is true even accounting for observational biases.
 
@@ -49,7 +49,7 @@ As seen above, binaries cluster at mass ratios close to 1, meaning that the two
 
 ![Distribution of the mass ratio of the two components in each binary.](figs/2015/06/2015-06-25-binary-mass-ratios.png)
 
-### Binary separation
+## Binary separation
 
 The binary separation (semi-major axis of the binary orbit) statistics indicates that there are more compact binaries than very distant ones. The spatial resolution of the surveys looking for binaries become the limiting factor in detecting more and more compact binaries. Binaries more compact than about 100 milliarcsec angular separation are probably hard to detect, even with the Hubble Space Telescope.
 

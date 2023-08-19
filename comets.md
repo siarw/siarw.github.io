@@ -17,7 +17,7 @@ In the Kuiper belt and Oort cloud these comets were kept very cold and were able
 
 The comets we currently see have left their cold reservoirs possibly due to perturbations by Neptune (if they come from the Kuiper belt) or a passing star (if they come from the Oort cloud) and are returning to the inner solar system on elliptical orbits. As they approach the Sun, their ices are heated and sublimate into jets. The jets carry some dust that was embedded in the ice and give rise to the coma: an unstable atmosphere of gas and dust that surrounds the nucleus. The coma is what gives comets their fuzzy appearance. The solar radiation then pushes part of the coma into the elongated tail structure that gives a comet its famous appearance.
 
-### Relevant links
+## Relevant links
 
 In the past, I have led a [Max Planck Research group in Cometary Science](cometary-science "Cometary Science") to analyse the results of the Rosetta mission in the context of the formation and evolution of the solar system.
 
@@ -27,7 +27,7 @@ In the past, I have studied two comets, [17P/Holmes](http://lacerdapedro.wordpr
 
 I have also worked on a paper about the [main-belt comet 133P/Elst-Pizarro](http://lacerdapedro.wordpress.com/the-seasonal-activity-of-mbc-133p/ "The Seasonal Activity of MBC 133P").
 
-### Relevant publications
+## Relevant publications
 
 -   [Lacerda (2013), MNRAS 428, 1818](http://labs.adsabs.harvard.edu/ui/abs/2013MNRAS.428.1818L)
 -   [Lacerda & Jewitt (2012), ApJL 760, 2](http://labs.adsabs.harvard.edu/ui/abs/2012ApJ...760L...2L)

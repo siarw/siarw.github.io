@@ -26,7 +26,7 @@ You can imagine this if you think of the headlights of a car in the distance at 
 
 
 
-The angular resolution ( $`\theta`$, in [radians](https://en.wikipedia.org/wiki/Radian)) depends on the **wavelength of light** (\$latex \\lambda&s=1\$, about 5000 Å for visible light) and the **aperture** (diameter, *D*) of the detector is given by the **[Rayleigh criterion](https://en.wikipedia.org/wiki/Angular_resolution#The_Rayleigh_criterion)**, which is
+The angular resolution ( $\theta$, in [radians](https://en.wikipedia.org/wiki/Radian)) depends on the **wavelength of light** (\$latex \\lambda&s=1\$, about 5000 Å for visible light) and the **aperture** (diameter, *D*) of the detector is given by the **[Rayleigh criterion](https://en.wikipedia.org/wiki/Angular_resolution#The_Rayleigh_criterion)**, which is
 
 
 

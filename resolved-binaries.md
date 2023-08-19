@@ -26,7 +26,7 @@ Below I show a number of plots that use data from [Will Grundy's Binary TNOs pa
 First, let us look at the known binaries by dynamical family. Most binaries exist in the Classical KBO population. This has been known for some time ([Stephens & Noll 2006](http://labs.adsabs.harvard.edu/adsabs/abs/2006AJ....131.1142S/)).
 
 <figure>
-<img src="figs/2015/06/2015-06-24-binaries-per-dynamical-family.png" alt="Binaries per dynamic family." width=200 />
+<img src="figs/2015/06/2015-06-24-binaries-per-dynamical-family.png" alt="Binaries per dynamic family." width=500 />
 <figcaption>Binaries per dynamic family.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ First, let us look at the known binaries by dynamical family. Most binaries exi
 If we now plot the orbital inclination distribution of the binaries we find that most binaries are located at low inclinations ([Noll et al. 2008](http://labs.adsabs.harvard.edu/adsabs/abs/2008Icar..194..758N/)).
 
 <figure>
-<img src="figs/2015/06/2015-06-24-binaries-inclination.png" alt="Orbital inclination distribution of KBO binaries." width=200 />
+<img src="figs/2015/06/2015-06-24-binaries-inclination.png" alt="Orbital inclination distribution of KBO binaries." width=500 />
 <figcaption>Orbital inclination distribution of KBO binaries.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ If we now plot the orbital inclination distribution of the binaries we find that
 The absolute magnitude of binaries is clustered around 6\<Hv\<8. However, it is not incompatible with the Hv distribution of KBOs as a whole. In conclusion, binaries do not pick a particular absolute magnitude - they exist at all brightnesses.
 
 <figure>
-<img src="figs/2015/06/2015-06-25-binaries-absolute-magnitude-vs-all-kbos1.png" alt="Left: Binaries Magnitude Distribution. Right: Comparison to magnitude distribution of KBOs (only KBOs in the magnitude range of binaries were considered)." width=200 />
+<img src="figs/2015/06/2015-06-25-binaries-absolute-magnitude-vs-all-kbos1.png" alt="Left: Binaries Magnitude Distribution. Right: Comparison to magnitude distribution of KBOs (only KBOs in the magnitude range of binaries were considered)." width=500 />
 <figcaption>Left: Binaries Magnitude Distribution. Right: Comparison to magnitude distribution of KBOs (only KBOs in the magnitude range of binaries were considered).</figcaption>
 </figure>
 
@@ -56,14 +56,14 @@ The absolute magnitude of binaries is clustered around 6\<Hv\<8. However, it is 
 The two components in each binary tend to have similar magnitudes. This is true even accounting for observational biases.
 
 <figure>
-<img src="figs/2015/06/2015-06-26-binary-magnitude-difference1.png" alt="Magnitudes of primary and secondary for each binary. Lines mark approximate mass ratios assuming the components have the same density and albedo." width=200 />
+<img src="figs/2015/06/2015-06-26-binary-magnitude-difference1.png" alt="Magnitudes of primary and secondary for each binary. Lines mark approximate mass ratios assuming the components have the same density and albedo." width=500 />
 <figcaption>Magnitudes of primary and secondary for each binary. Lines mark approximate mass ratios assuming the components have the same density and albedo.</figcaption>
 </figure>
 
 As seen above, binaries cluster at mass ratios close to 1, meaning that the two components of each binary tend to have similar masses. The masses were calculated assuming that the components have the same density and albedo.
 
 <figure>
-<img src="figs/2015/06/2015-06-25-binary-mass-ratios.png" alt="Distribution of the mass ratio of the two components in each binary." width=200 />
+<img src="figs/2015/06/2015-06-25-binary-mass-ratios.png" alt="Distribution of the mass ratio of the two components in each binary." width=500 />
 <figcaption>Distribution of the mass ratio of the two components in each binary.</figcaption>
 </figure>
 

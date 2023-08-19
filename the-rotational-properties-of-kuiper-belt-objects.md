@@ -22,7 +22,7 @@ Rotational properties have been measured for about 50 KBOs. Although this number
 
 ## Why is this important?
 
-![Spin rate distribution for asteroids and Kuiper belt objects.](figs/2013/09/18407.png)
+![Spin rate distribution for asteroids and Kuiper belt objects.](figs/2013/09/spin-rate-distribution.png)
 
 The distribution of spin rates of a family of objects can tell us, for instance, how often have they collided with each other. In principle, the more collisions the faster the spins of the objects. The asteroids have a distribution of spins which is mostly set by mutual collisions. We find that KBOs spin slower on average than asteroids (see Figure on the right). Whereas most large asteroids spin once every 4 to 6 hours, similar sized KBOs complete a rotation in about 7 to 9 hours.
 

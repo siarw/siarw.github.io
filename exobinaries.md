@@ -29,7 +29,7 @@ So, the planet above is modelled on Corot-9b which has the following physical pa
 
 Assuming no stellar limb-darkening, the transit lightcurve of this synthetic Corot 9b looks as follows:
 
-![C9b](figs/2013/03/c9b.png)
+![C9b](figs/2013/03/c9b.jpeg)
 
 ## Exobinary
 
@@ -49,7 +49,7 @@ I computed four consecutive orbits of the exobinary using the N-body code mercur
 
 The lightcurves of the 4 consecutive transits are shown below. The red, dotted line shows the transit lightcurve of Corot 9b, for comparison, and the solid black line is the lightcurve of the exobinary.
 
-![LightcurvesC9bExobinary](figs/2013/03/lightcurvesc9bexobinary.png)
+![LightcurvesC9bExobinary](figs/2013/03/lightcurvesc9bexobinary.jpeg)
 
 ## Different sized components
 

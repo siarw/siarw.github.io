@@ -37,23 +37,23 @@ If we now plot the orbital inclination distribution of the binaries we find that
 
 The absolute magnitude of binaries is clustered around 6\<Hv\<8. However, it is not incompatible with the Hv distribution of KBOs as a whole. In conclusion, binaries do not pick a particular absolute magnitude - they exist at all brightnesses.
 
-![Left: Binaries Magnitude Distribution. Right: Comparison to magnitude distribution of KBOs (only KBOs in the magnitude range of binaries were considered).](figs/2015/06/2015-06-25-binaries-absolute-magnitude-vs-all-kbos1.png?w=200)
+![Left: Binaries Magnitude Distribution. Right: Comparison to magnitude distribution of KBOs (only KBOs in the magnitude range of binaries were considered).](figs/2015/06/2015-06-25-binaries-absolute-magnitude-vs-all-kbos1.png | width = 200)
 
 ## Relative brightness and mass of the binary components
 
 The two components in each binary tend to have similar magnitudes. This is true even accounting for observational biases.
 
-![Magnitudes of primary and secondary for each binary. Lines mark approximate mass ratios assuming the components have the same density and albedo.](figs/2015/06/2015-06-26-binary-magnitude-difference1.png?w=200)
+![Magnitudes of primary and secondary for each binary. Lines mark approximate mass ratios assuming the components have the same density and albedo.](figs/2015/06/2015-06-26-binary-magnitude-difference1.png | w=200)
 
 As seen above, binaries cluster at mass ratios close to 1, meaning that the two components of each binary tend to have similar masses. The masses were calculated assuming that the components have the same density and albedo.
 
-![Distribution of the mass ratio of the two components in each binary.](figs/2015/06/2015-06-25-binary-mass-ratios.png?w=200)
+![Distribution of the mass ratio of the two components in each binary.](figs/2015/06/2015-06-25-binary-mass-ratios.png | width=200)
 
 ## Binary separation
 
 The binary separation (semi-major axis of the binary orbit) statistics indicates that there are more compact binaries than very distant ones. The spatial resolution of the surveys looking for binaries become the limiting factor in detecting more and more compact binaries. Binaries more compact than about 100 milliarcsec angular separation are probably hard to detect, even with the Hubble Space Telescope.
 
-![Histogram of KBO binary semimajor axis (or mean separation). The angular resolution limits shown as vertical lines assume the binary is at 40 AU. Separations to the left of the lines are undetectable. Most binaries were probably limited at angular separations of 100 milliarcsec.](figs/2015/06/2015-06-26-binary-separation.png?w=200)
+![Histogram of KBO binary semimajor axis (or mean separation). The angular resolution limits shown as vertical lines assume the binary is at 40 AU. Separations to the left of the lines are undetectable. Most binaries were probably limited at angular separations of 100 milliarcsec.](figs/2015/06/2015-06-26-binary-separation.png \| w=200)
 
 Pedro Lacerda, June 2015
 

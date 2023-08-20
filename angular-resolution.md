@@ -38,7 +38,7 @@ This relation, valid for circular detectors, is also called the **diffraction li
 
 
 
-For example, the human eye has a circular aperture with diameter *D*~rye~ 0.5 cm and can achieve an angular resolution
+For example, the human eye has a circular aperture with diameter *D*<sub>eye</sub> 0.5 cm and can achieve an angular resolution
 
 
 

@@ -26,16 +26,10 @@ You can imagine this if you think of the headlights of a car in the distance at 
 
 
 
-The angular resolution ( $\theta$, in [radians](https://en.wikipedia.org/wiki/Radian)) depends on the **wavelength of light** (\$latex \\lambda&s=1\$, about 5000 Å for visible light) and the **aperture** (diameter, *D*) of the detector is given by the **[Rayleigh criterion](https://en.wikipedia.org/wiki/Angular_resolution#The_Rayleigh_criterion)**, which is
+The angular resolution (𝜃, in [radians](https://en.wikipedia.org/wiki/Radian)) depends on the **wavelength of light** (𝜆, about 5000 Å for visible light) and the **aperture** (diameter, *D*) of the detector is given by the **[Rayleigh criterion](https://en.wikipedia.org/wiki/Angular_resolution#The_Rayleigh_criterion)**, which is
 
 
-
-
-
-\$latex \\theta=1.22\\,\\frac{\\lambda}{D}&s=2\$
-
-
-
+<img src="figs/2023/08/theta=1.22_,_fra.png" width=100 />
 
 
 This relation, valid for circular detectors, is also called the **diffraction limit**. Incoming lightwaves arriving at different points of the detector interfere with each other in a way that blurs detail on scales smaller than \$\\theta\$.

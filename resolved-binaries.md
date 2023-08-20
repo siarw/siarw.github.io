@@ -46,7 +46,7 @@ If we now plot the orbital inclination distribution of the binaries we find that
 The absolute magnitude of binaries is clustered around 6 \< Hv \< 8. However, it is not incompatible with the Hv distribution of KBOs as a whole. In conclusion, binaries do not pick a particular absolute magnitude - they exist at all brightnesses.
 
 <figure>
-<img src="figs/2015/06/2015-06-25-binaries-absolute-magnitude-vs-all-kbos1.png" alt="Left: Binaries Magnitude Distribution. Right: Comparison to magnitude distribution of KBOs (only KBOs in the magnitude range of binaries were considered)." width=800 align="center" />
+<img src="figs/2015/06/2015-06-25-binaries-absolute-magnitude-vs-all-kbos1.png" alt="Left: Binaries Magnitude Distribution. Right: Comparison to magnitude distribution of KBOs (only KBOs in the magnitude range of binaries were considered)." width=100% align="center" />
 <figcaption>Left: Binaries Magnitude Distribution. Right: Comparison to magnitude distribution of KBOs (only KBOs in the magnitude range of binaries were considered).</figcaption>
 </figure>
 

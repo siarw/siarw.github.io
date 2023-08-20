@@ -30,7 +30,7 @@ The angular resolution (𝜃, in [radians](https://en.wikipedia.org/wiki/Radian)
 
 
 <img align="center" src="figs/2023/08/theta=1.22_,_fra.png" />
-
+<!-- \theta=1.22\,\frac{\lambda}{D} -->
 
 This relation, valid for circular detectors, is also called the **diffraction limit**. Incoming lightwaves arriving at different points of the detector interfere with each other in a way that blurs detail on scales smaller than \$\\theta\$.
 
@@ -44,9 +44,7 @@ For example, the human eye has a circular aperture with diameter *D*<sub>eye</su
 
 <img align="center" src="figs/2023/08/theta=1.22_times.png" />,
 
-<!-- \$latex \\theta=1.22\\times \\frac{5\\times 10\^{-7}}{0.5\\times 10\^{-2}}=1.22\\times 10\^{-4}\\,\\text{radians}\\approx 25''&s=2\$ -->
-
-
+<!-- \theta=1.22\times \frac{5\times 10^{-7}}{0.5\times 10^{-2}}=1.22\times 10^{-4}\,\text{radians}\approx 25'' -->
 
 
 

@@ -10,11 +10,11 @@ Status: published
 
 I am interested in the possibility of finding binary exoplanets. In the final phases of planet formation several planetary cores should coexist and interact dynamically, which could lead to the formation of pairs. If some of these pairs have survived we may be able to detect them using transit photometry. The easiest to detect would be systems with nearly *equal sized components*, or **exobinaries**.
 
-Here, I report on what the transit lightcurve of a binary exoplanet would look like. I simulate the orbit of the exobinary around a star using an N-body code (mercury6, [Chambers 1999](http://tinyurl.com/5v9oz8y)), then extract the transit part and render it using the ray-tracing technique used in [Lacerda & Jewitt 2007](https://www.doi.org/10.48550/arXiv.astro-ph/0612237).
+Here, I report on what the transit lightcurve of a binary exoplanet would look like. I simulate the orbit of the exobinary around a star using an N-body code (mercury6, [Chambers 1999](https://tinyurl.com/5v9oz8y)), then extract the transit part and render it using the ray-tracing technique used in [Lacerda & Jewitt 2007](https://www.doi.org/10.48550/arXiv.astro-ph/0612237).
 
 ## Corot-9b
 
-First let's look at a simulation of a single exoplanet. I will use [Corot-9b](http://exoplanets.org/cgi-bin/planet.py/CoRoT-9_b) for this exercise. Corot-9b has a \~95 day orbit around G3 V star of mass 1 Msun. I assumed the star has a radius 1 Rsun.
+First let's look at a simulation of a single exoplanet. I will use [Corot-9b](https://exoplanets.org/cgi-bin/planet.py/CoRoT-9_b) for this exercise. Corot-9b has a \~95 day orbit around G3 V star of mass 1 Msun. I assumed the star has a radius 1 Rsun.
 
 ![Corot-9b](figs/2013/03/c9b.gif)
 
@@ -53,7 +53,7 @@ The lightcurves of the 4 consecutive transits are shown below. The red, dotted l
 
 ## Different sized components
 
-Here is a [simulation](http://api.soundcloud.com/tracks/41578691) of 36 consecutive transits from a system where the exobinary components have a mass ratio of 8 and are separated by 0.1 mutual Hill radii. Watch the movie at [this link](http://api.soundcloud.com/tracks/41578691).
+Here is a [simulation](https://www.youtube.com/watch?v=28PWhf1XXLw) of 36 consecutive transits from a system where the exobinary components have a mass ratio of 8 and are separated by 0.1 mutual Hill radii. Watch the movie at [this link](https://www.youtube.com/watch?v=28PWhf1XXLw).
 <!-- \[youtube http://www.youtube.com/watch?v=28PWhf1XXLw\] -->
 
 The 36 transit lightcurves look like this:

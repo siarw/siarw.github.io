@@ -29,7 +29,7 @@ You can imagine this if you think of the headlights of a car in the distance at 
 The angular resolution (𝜃, in [radians](https://en.wikipedia.org/wiki/Radian)) depends on the **wavelength of light** (𝜆, about 5000 Å for visible light) and the **aperture** (diameter, *D*) of the detector is given by the **[Rayleigh criterion](https://en.wikipedia.org/wiki/Angular_resolution#The_Rayleigh_criterion)**, which is
 
 
-<img align="center" src="figs/2023/08/theta=1.22_,_fra.png" width=100 />
+<img align="center" src="figs/2023/08/theta=1.22_,_fra.png" />
 
 
 This relation, valid for circular detectors, is also called the **diffraction limit**. Incoming lightwaves arriving at different points of the detector interfere with each other in a way that blurs detail on scales smaller than \$\\theta\$.
@@ -42,7 +42,7 @@ For example, the human eye has a circular aperture with diameter *D*~rye~ 0.5 cm
 
 
 
-<img align="center" src="figs/2023/08/theta=1.22_times.png" width=100 />
+<img align="center" src="figs/2023/08/theta=1.22_times.png" />,
 
 <!-- \$latex \\theta=1.22\\times \\frac{5\\times 10\^{-7}}{0.5\\times 10\^{-2}}=1.22\\times 10\^{-4}\\,\\text{radians}\\approx 25''&s=2\$ -->
 
@@ -50,7 +50,7 @@ For example, the human eye has a circular aperture with diameter *D*~rye~ 0.5 cm
 
 
 
-(1º=3600'') which corresponds to about 0.1 millimeter at a distance of 1 meter.
+where 1º=3600'', which corresponds to about 0.1 millimeter at a distance of 1 meter.
 
 
 

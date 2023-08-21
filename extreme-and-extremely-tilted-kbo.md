@@ -37,4 +37,3 @@ This video shows an artistic rendering of the strange contact-binary Kuiper bel
 A press release on this discovery can be found [here](http://www.europlanet-eu.org/outreach/index.php?option=com_content&task=view&id=350&Itemid=41). 
 
 The scientific paper can be found [here](https://ui.adsabs.harvard.edu/#abs/2011AJ....142...90L/abstract).
-e

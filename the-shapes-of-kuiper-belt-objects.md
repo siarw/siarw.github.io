@@ -12,7 +12,7 @@ Status: published
 
 Kuiper Belt objects (KBOs) are too far for us to be able to resolve their shapes — they appear point-like, just like stars. If their shapes cannot be measured directly then we must infer them from other things we can measure.
 
-![Image of KBO Haumea.](figs/2013/09/el61_4-annotated1.jpg)
+![Image of KBO Haumea.](figs/2013/09/el61_4-annotated.jpg)
 
 If a KBO is not spherical, then its appearance in the sky will change as it spins. This change in appearance translates into a periodic change in brightness. This brightness oscillation is called a lightcurve. So, if an object produces a lightcurve, we already know something about it's shape: it is probably not spherical. The less spherical, or more elongated an object is, the larger will be the lightcurve range of variation.
 

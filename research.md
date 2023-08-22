@@ -13,6 +13,7 @@ My research deals with physical properties of small bodies of the solar system, 
 -   [Density](density)
 -   [Lightcurves](lightcurves-of-small-solar-system-bodies)
 -   [Medieval comets](marvelling-at-the-skies-comets-through-the-eyes-of-the-anglo-saxons)
+-   [Miscellaneous](miscellaneous)
 
 
 ## Publications

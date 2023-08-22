@@ -25,3 +25,5 @@ Since 2022, I am a member of the Institute of Astrophysics in Portugal, and work
 Here is a [list of my colleagues and collaborators](colleagues).
 
 Note: my homepage is slowly migrating from [https://lacerdapedro.wordpress.com](https://lacerdapedro.wordpress.com) to here.
+
+Note 2: Our house in Portugal is for sale. [Check the photos here](house-for-sale).

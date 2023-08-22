@@ -9,10 +9,10 @@ Status: published
 2003 SQ317 is a strange Kuiper belt object. Over time, its brightness oscillates greatly, more than doubling in intensity every 3.6 hours. What happens is that SQ317 has an elongated shape and as it spins it alternates between a smaller tip-on and a larger sideways appearance, reflecting corresponding amounts of sunlight. On the magnitude scale, SQ317 varies by about 0.9 units.
 
 <!-- \[caption id="attachment_1174" align="aligncenter" width="400"\]![img_0060](https://lacerdapedro.files.wordpress.com/2013/11/img_0060.png?w=800){.aligncenter .size-medium .wp-image-1174 width="400" height="300"} Lightcurve of KBO 2003 SQ317.\[/caption\] -->
-![Lightcurve of KBO 2003 SQ317.](figs/2013/11/img_0060.png){:width="400px"}
+![Lightcurve of KBO 2003 SQ317.](figs/2013/11/img_0060.png){:width="400px"} Lightcurve of KBO 2003 SQ317
 
 <!-- \[caption id="attachment_449" align="alignleft" width="120"\][![KBO 2001 QG298 model](http://lacerdapedro.files.wordpress.com/2013/11/qg982fitduo0-21077.gif){.size-full .wp-image-449 width="120" height="120"}](http://lacerdapedro.files.wordpress.com/2013/11/qg982fitduo0-21077.gif) Model of contact binary 2001 QG298.\[/caption\] -->
-![Model of contact binary 2001 QG298.](figs/2013/11/qg982fitduo0-21077.gif){:width="120px"}
+![Model of contact binary 2001 QG298.](figs/2013/11/qg982fitduo0-21077.gif){:width="120px"} Model of contact binary 2001 QG298.
 
 A brightness variation as large as that of SQ317 is very unusual. Only one other KBO varies more than SQ317: the contact binary [2001 QG298](extreme-and-extremely-tilted-kbo/ "Extreme and Extremely Tilted KBO"), which has a variation of 1.2 magnitudes. In the case of QG298, its two components are tidally stretched due to their mutual gravitational pull giving the object an extremely elongated shape. Could the same be the case for SQ317?
 
@@ -21,10 +21,10 @@ The size of SQ317 is not known exactly, but it is probably larger than 300 km al
 If we assume that the shape of the object is set by a balance between those three forces — that balance is called hydrostatic equilibrium — then there is a limit to how elongated the object can be before with splits into pieces (the tips fly off). QG298 is more elongated than the limit, so it is only stable as a binary. SQ317 is right at the threshold and can be both a single object or a binary. Here are the two possible models. Click the images to see them spin.
 
 <!-- \[caption id="attachment_475" align="alignright" width="150"\][![2003 SQ317 Jacobi ellipsoid model](http://lacerdapedro.files.wordpress.com/2013/11/2003sq317_ellipsoid.gif?w=150 "Jacobi ellipsoid model of 2003 SQ317."){.size-thumbnail .wp-image-475 width="150" height="150"}](http://lacerdapedro.files.wordpress.com/2013/11/2003sq317_ellipsoid.gif) Jacobi ellipsoid model of 2003 SQ317.\[/caption\] -->
-![Jacobi ellipsoid model of 2003 SQ317.](figs/2013/11/2003sq317_ellipsoid.gif){:width="150px"}
 
 <!-- \[caption id="attachment_474" align="alignnone" width="150"\][![2003 SQ317 Roche binary model](http://lacerdapedro.files.wordpress.com/2013/11/2003sq317_binary.gif?w=150){.size-thumbnail .wp-image-474 width="150" height="150"}](http://lacerdapedro.files.wordpress.com/2013/11/2003sq317_binary.gif) Roche binary model of 2003 SQ317.\[/caption\] -->
-![Roche binary model of 2003 SQ317.](figs/2013/11/2003sq317_binary.gif){:width="150px"}
+![Jacobi ellipsoid model of 2003 SQ317.](figs/2013/11/2003sq317_ellipsoid.gif){:width="150px"}Jacobi ellipsoid model of 2003 SQ317.
+![Roche binary model of 2003 SQ317.](figs/2013/11/2003sq317_binary.gif){:width="150px"} Roche binary model of 2003 SQ317.
 
 Both models fit the lightcurve data reasonably well, although the binary model does slightly better at matching the faintest points. However, the two models predict very different [bulk densities](density "Density") for SQ317. While the single, elongated ellipsoid model implies a density near 1 grams per cubic centimetre, which implies an icy composition, the binary model requires a bulk density over 2.5 g/cc which would mean a much rockier composition for SQ317.
 

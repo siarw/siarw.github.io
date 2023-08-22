@@ -18,7 +18,7 @@ In the solar system, we are interested in figuring out the density of different
 
 ## Why Planets Are Round
 
-In general, the [lightcurve](lightcurves-of-small-solar-system-bodies) of an object tells us both how fast [it spins](the-rotational-properties-of-kuiper-belt-objects) and [how](the-shapes-of-kuiper-belt-objects) [elongated it is](the-shapes-of-kuiper-belt-objects). We can use this information to infer how "strong" an object is. The word strong is in quotes because the strength can have different origins.
+In general, the [lightcurve](lightcurves-of-small-solar-system-bodies) of an object tells us both how fast [it spins](the-rotational-properties-of-kuiper-belt-objects) and [how elongated it is](the-shapes-of-kuiper-belt-objects). We can use this information to infer how "strong" an object is. The word strong is in quotes because the strength can have different origins.
 
 For small bodies, up to about 100 kilometers across, their material strength is responsible for holding their shapes. This is true for much smaller bodies as well. A stone, for instance, keeps its shape because of material strength, and we can reshape it by breaking or sculpting it, or maybe by heating it to very, very high temperatures until it melts. But the stone will not reshape itself.
 

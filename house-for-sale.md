@@ -174,6 +174,11 @@ Slug: house-for-sale
 <img src="figs/2023/08/huis-azival-00003.jpeg" width="500">
 <img src="figs/2023/08/huis-azival-00013.jpeg" width="500">
 <img src="figs/2023/08/huis-azival-00014.jpeg" width="500">
+<img src="figs/2023/08/tuin-00001.jpeg" width="500">
+<img src="figs/2023/08/tuin-00002.jpeg" width="500">
+<img src="figs/2023/08/tuin-00003.jpeg" width="500">
+<img src="figs/2023/08/tuin-00004.jpeg" width="500">
+<img src="figs/2023/08/tuin-00005.jpeg" width="500">
 
 <h3>Outside/Buiten</h3>
 
@@ -181,6 +186,10 @@ Slug: house-for-sale
 <img src="figs/2023/08/huis-azival-00005.jpeg" width="500">
 <img src="figs/2023/08/huis-azival-00011.jpeg" width="500">
 <img src="figs/2023/08/huis-azival-00038.jpeg" width="500">
+<img src="figs/2023/08/buiten-00001.jpeg" width="500">
+<img src="figs/2023/08/buiten-00002.jpeg" width="500">
+<img src="figs/2023/08/buiten-00003.jpeg" width="500">
+<img src="figs/2023/08/buiten-00004.jpeg" width="500">
 
 <h3>Indoors/Binnen</h3>
 <img src="figs/2023/08/huis-azival-00015.jpeg" width="500">

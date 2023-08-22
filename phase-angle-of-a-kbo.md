@@ -33,5 +33,5 @@ where `a` is the KBO semi-major axis in au, `i` is the angle between the Sun-KBO
 The equation above is plotted below for different combinations of `a` and `i`.
 
 
-![](https://lacerdapedro.files.wordpress.com/2022/01/image-1.png){:width="500px"}
+![](https://lacerdapedro.files.wordpress.com/2022/01/image-1.png){:width="500px" color="white"}
 

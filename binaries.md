@@ -20,7 +20,7 @@ Most known KBO binaries are [resolved](resolved-binaries). That means the two b
 
 ![Figure 1 – Model of a contact binary.](figs/2013/03/contact-binary.gif)
 
-A particularly interesting subset of the binary population are the contact binaries which are identified from their extremely variable [lightcurves](lightcurves-of-small-solar-system-bodies) (∆m\>0.9 mag; see Figures 1 & 2). So far, 1 contact binary has been identified in the Kuiper belt and 3 contact binaries have been found in the Trojans ([Mann, Jewitt & Lacerda 2007](http://goo.gl/QRZjh)). These discoveries suggest high intrinsic contact binaries abundances (\>10%; [Lacerda 2011](http://lacerdapedro.wordpress.com/extreme-and-extremely-tilted-kbo/ "Extreme and Extremely Tilted KBO")) among both Trojans and KBOs.
+A particularly interesting subset of the binary population are the contact binaries which are identified from their extremely variable [lightcurves](lightcurves-of-small-solar-system-bodies) (∆m\>0.9 mag; see Figures 1 & 2). So far, 1 contact binary has been identified in the Kuiper belt and 3 contact binaries have been found in the Trojans ([Mann, Jewitt & Lacerda 2007](https://ui.adsabs.harvard.edu/abs/2007AJ....134.1133M/abstracth)). These discoveries suggest high intrinsic contact binaries abundances (\>10%; [Lacerda 2011](http://lacerdapedro.wordpress.com/extreme-and-extremely-tilted-kbo/ "Extreme and Extremely Tilted KBO")) among both Trojans and KBOs.
 
 ## Hektor
 
@@ -32,17 +32,17 @@ Asteroid (624) Hektor is the most famous contact binary in the solar system. Hek
 
 ## Importance of Contact Binaries
 
-Contact binaries are particularly useful for a number of reasons. Firstly, their abundance relative to more distant, resolved binaries will depend strongly on (and hence constrain) the collisional history of the population. Secondly, and more importantly, their bulk densities (proxy for composition) can be estimated from careful modelling of their lightcurves ([Lacerda & Jewitt 2007](http://goo.gl/wAhCI)). Densities are hard to measure remotely but are extremely important as an indicator of the bulk composition of an object. Modelling of 1 of the KBOs and 2 of the Trojan CBs mentioned above has revealed densities near 0.6 g/cm³. This surprisingly low density requires an almost pure icy composition and significant porosity. Even more surprising is that the remaining 1 KBO and 1 Trojan (Hektor) have densities in excess of 2 g/cm³ uncovering a significant compositional diversity in these populations. As more contact binaries are discovered in the future we hope to understand how the diversity relates with other properties.
+Contact binaries are particularly useful for a number of reasons. Firstly, their abundance relative to more distant, resolved binaries will depend strongly on (and hence constrain) the collisional history of the population. Secondly, and more importantly, their bulk densities (proxy for composition) can be estimated from careful modelling of their lightcurves ([Lacerda & Jewitt 2007](https://ui.adsabs.harvard.edu/#abs/2007AJ....133.1393L/abstract)). Densities are hard to measure remotely but are extremely important as an indicator of the bulk composition of an object. Modelling of 1 of the KBOs and 2 of the Trojan CBs mentioned above has revealed densities near 0.6 g/cm³. This surprisingly low density requires an almost pure icy composition and significant porosity. Even more surprising is that the remaining 1 KBO and 1 Trojan (Hektor) have densities in excess of 2 g/cm³ uncovering a significant compositional diversity in these populations. As more contact binaries are discovered in the future we hope to understand how the diversity relates with other properties.
 
 ## Relevant research and publications
 
 -   [Unusual KBO SQ317](the-unusual-kbo-2003-sq317 "The Unusual KBO 2003 SQ317")
     -   [Lacerda, McNeill & Peixinho (2013) MNRAS 437, 3824](https://www.dropbox.com/s/46pxdv6wdwqp82d/2013MNRAS_stt2180Lacerda.pdf)
 -   [Extreme and Extremely Tilted KBO QG298](extreme-and-extremely-tilted-kbo "Extreme and Extremely Tilted KBO")
-    -   [Lacerda (2011) AJ 142, 90](http://goo.gl/P1NG5)
+    -   [Lacerda (2011) AJ 142, 90](https://ui.adsabs.harvard.edu/#abs/2011AJ....142...90L/abstract)
 -   Densities from Lightcurves:
-    -   [Lacerda & Jewitt (2007) AJ 133, 1393](http://goo.gl/wAhCI)
+    -   [Lacerda & Jewitt (2007) AJ 133, 1393](https://ui.adsabs.harvard.edu/#abs/2007AJ....133.1393L/abstract)
 -   Contact binary Trojans:
-    -   [Mann, Jewitt & Lacerda (2007) AJ 134, 1133](http://goo.gl/QRZjh)
+    -   [Mann, Jewitt & Lacerda (2007) AJ 134, 1133](https://ui.adsabs.harvard.edu/abs/2007AJ....134.1133M/abstracth)
 
 Pedro Lacerda, April 2013

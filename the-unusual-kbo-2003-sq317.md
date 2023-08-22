@@ -6,6 +6,8 @@ Slug: the-unusual-kbo-2003-sq317
 Status: published
 ---
 
+# Model of contact binary 2001 QG298.
+
 2003 SQ317 is a strange Kuiper belt object. Over time, its brightness oscillates greatly, more than doubling in intensity every 3.6 hours. What happens is that SQ317 has an elongated shape and as it spins it alternates between a smaller tip-on and a larger sideways appearance, reflecting corresponding amounts of sunlight. On the magnitude scale, SQ317 varies by about 0.9 units.
 
 <!-- \[caption id="attachment_1174" align="aligncenter" width="400"\]![img_0060](https://lacerdapedro.files.wordpress.com/2013/11/img_0060.png?w=800){.aligncenter .size-medium .wp-image-1174 width="400" height="300"} Lightcurve of KBO 2003 SQ317.\[/caption\] -->

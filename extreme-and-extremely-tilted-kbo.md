@@ -10,9 +10,9 @@ Status: published
 
 > Tilted and oddly shaped Kuiper belt object may be the first of many to be discovered
 
-Belfast, UK, October 2011 – The oddly shaped Kuiper belt object 2001QG298 is surprisingly tilted with respect to its orbit around the sun. The most important implication of this discovery is that it suggests that contact binaries such as 2001QG298 are the most common type of binary in the Kuiper belt. I will present this finding at the Joint Meeting of the European Planetary Science Congress and the Division for Planetary Sciences in Nantes, France, on 3 Oct 2011.
+**Belfast, UK, October 2011 – The oddly shaped Kuiper belt object 2001QG298 is surprisingly tilted with respect to its orbit around the sun. The most important implication of this discovery is that it suggests that contact binaries such as 2001QG298 are the most common type of binary in the Kuiper belt. I will present this finding at the Joint Meeting of the European Planetary Science Congress and the Division for Planetary Sciences in Nantes, France, on 3 Oct 2011.**
 
-![Model of KBO 2001 QG298.](figs/2013/09/figure1large.png)
+![Model of KBO 2001 QG298.](figs/2013/09/figure1large.png 'Model of KBO 2001 QG298.')
 
 The Kuiper belt objects (KBOs) orbit the sun beyond Neptune and are the best preserved leftovers of the formation of the planets. The awkwardly named 2001QG298 is a remarkable Kuiper belt object made up of two components that orbit each other very closely, possibly touching (Figure 1). Imagine that you glue two eggs together tip to tip. That's approximately the shape of 2001QG298.
 

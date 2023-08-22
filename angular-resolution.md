@@ -39,9 +39,9 @@ This relation, valid for circular detectors, is also called the **diffraction li
 
 
 
-For example, the human eye has a circular aperture with diameter *D*<sub>eye</sub>~0.5 cm and can achieve an angular resolution
+For example, the human eye has a circular aperture with diameter `D<sub>eye</sub> ~ 0.5 cm` and can achieve an angular resolution
 
-`theta=1.22 (5e-7 / 0.5e-2) = 1.22e-4 radians ~ 25''`
+`theta = 1.22 (5e-7 / 0.5e-2) = 1.22e-4 radians ~ 25''`
 
 <!-- <img align="center" src="figs/2023/08/theta=1.22_times.png" />, -->
 
@@ -49,13 +49,13 @@ For example, the human eye has a circular aperture with diameter *D*<sub>eye</su
 
 
 
-where `1 deg = 3600''`, which corresponds to about 0.1 millimeter at a distance of 1 meter.
+where `1 deg = 3600''`, which corresponds to about `0.1 mm` at a distance of `1 meter`.
 
 
 
 
 
-For a powerful telescope, `D~telescope~ = 5 m` and
+For a powerful telescope, `D<sub>telescope</sub> = 5 m` and
 
 
 
@@ -67,7 +67,7 @@ For a powerful telescope, `D~telescope~ = 5 m` and
 
 
 
-The excellent angular resolution achieved by a 5-meter telescope is further blurred by air motions in the earth’s atmosphere. Over the few minutes exposure time required to detect a Kuiper Belt object, the atmosphere degrades the image to an angular resolution of around 1''. This is called the **seeing** in observational astronomy. At very good observing sites the seeing can be as low as a few times 0.1''. Advanced techniques such as adaptive or active optics and luck imaging can compensate for the atmosphere’s blurring and approach the image quality promised by the diffraction limit.
+The excellent angular resolution achieved by a 5-meter telescope is further blurred by air motions in the earth’s atmosphere. Over the few minutes exposure time required to detect a Kuiper Belt object, the atmosphere degrades the image to an angular resolution of around `1''`. This is called the **seeing** in observational astronomy. At very good observing sites the seeing can be as low as a few times `0.1''`. Advanced techniques such as adaptive or active optics and luck imaging can compensate for the atmosphere’s blurring and approach the image quality promised by the diffraction limit.
 
 
 

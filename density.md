@@ -28,7 +28,7 @@ The exact size at which a body can crush itself into a sphere is not very well
 
 ## Hydrostatic Equilibrium
 
-![Rotating Ellipsoid](figs/2013/09/65d95.gif) 
+![Rotating Ellipsoid](figs/2013/09/non-spherical.gif) 
 
 If the object is in hydrostatic equilibrium its density and spin  period will define its shape. By measuring the spin period and  approximate shape from the lightcurve we are able to estimate the  density.
 

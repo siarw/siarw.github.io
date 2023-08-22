@@ -26,20 +26,20 @@ You can imagine this if you think of the headlights of a car in the distance at 
 
 
 
-The angular resolution (𝜃, in [radians](https://en.wikipedia.org/wiki/Radian)) depends on the **wavelength of light** (𝜆, about 5000 Å for visible light) and the **aperture** (diameter, *D*) of the detector is given by the **[Rayleigh criterion](https://en.wikipedia.org/wiki/Angular_resolution#The_Rayleigh_criterion)**, which is
+The angular resolution (`theta`, in [radians](https://en.wikipedia.org/wiki/Radian)) depends on the **wavelength of light** (`lambda`, about 5000 Å for visible light) and the **aperture** (diameter, `D`) of the detector is given by the **[Rayleigh criterion](https://en.wikipedia.org/wiki/Angular_resolution#The_Rayleigh_criterion)**, which is
 
 `theta = 1.22 lambda / D`
 
 <!-- <img align="center" src="figs/2023/08/theta=1.22_,_fra.png" /> -->
 <!-- \theta=1.22\,\frac{\lambda}{D} -->
 
-This relation, valid for circular detectors, is also called the **diffraction limit**. Incoming lightwaves arriving at different points of the detector interfere with each other in a way that blurs detail on scales smaller than 𝜃.
+This relation, valid for circular detectors, is also called the **diffraction limit**. Incoming lightwaves arriving at different points of the detector interfere with each other in a way that blurs detail on scales smaller than `theta`.
 
 
 
 
 
-For example, the human eye has a circular aperture with diameter `D<sub>eye</sub> ~ 0.5 cm` and can achieve an angular resolution
+For example, the human eye has a circular aperture with diameter `D_eye ~ 0.5 cm` and can achieve an angular resolution
 
 `theta = 1.22 (5e-7 / 0.5e-2) = 1.22e-4 radians ~ 25''`
 
@@ -55,7 +55,7 @@ where `1 deg = 3600''`, which corresponds to about `0.1 mm` at a distance of `1 
 
 
 
-For a powerful telescope, `D<sub>telescope</sub> = 5 m` and
+For a powerful telescope, `D_telescope = 5 m` and
 
 
 

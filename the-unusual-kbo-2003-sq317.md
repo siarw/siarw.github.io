@@ -26,6 +26,7 @@ If we assume that the shape of the object is set by a balance between those thre
 
 <!-- \[caption id="attachment_474" align="alignnone" width="150"\][![2003 SQ317 Roche binary model](http://lacerdapedro.files.wordpress.com/2013/11/2003sq317_binary.gif?w=150){.size-thumbnail .wp-image-474 width="150" height="150"}](http://lacerdapedro.files.wordpress.com/2013/11/2003sq317_binary.gif) Roche binary model of 2003 SQ317.\[/caption\] -->
 ![Jacobi ellipsoid model of 2003 SQ317.](figs/2013/11/2003sq317_ellipsoid.gif){:width="150px"}Jacobi ellipsoid model of 2003 SQ317.
+
 ![Roche binary model of 2003 SQ317.](figs/2013/11/2003sq317_binary.gif){:width="150px"} Roche binary model of 2003 SQ317.
 
 Both models fit the lightcurve data reasonably well, although the binary model does slightly better at matching the faintest points. However, the two models predict very different [bulk densities](density "Density") for SQ317. While the single, elongated ellipsoid model implies a density near 1 grams per cubic centimetre, which implies an icy composition, the binary model requires a bulk density over 2.5 g/cc which would mean a much rockier composition for SQ317.

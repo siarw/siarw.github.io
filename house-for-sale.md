@@ -9,9 +9,8 @@ Slug: house-for-sale
 <img src="figs/2023/08/huis-azival-00026.jpeg" width="500">
 <img src="figs/2023/08/huis-azival-00006.jpeg" width="500">
 
-- <a href="#en">English</a>
-- <a href="#nl">Nederlands</a>
-- <a href="#photos">Photos/Foto's</a>
+- <a href="#nl">Link naar Nederlands beschrijving</a>
+- <a href="#photos">Link to/naar Photos/Foto's</a>
 
 <h2 id="en">Description in English</h2>
 

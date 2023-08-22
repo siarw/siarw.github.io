@@ -6,8 +6,8 @@ Slug: house-for-sale
 
 # Lovely house for sale in a quiet village in central Portugal
 
-<img src="figs/2023/08/huis-azival-00026.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00006.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00026.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00006.jpeg" width="400">
 
 - <a href="#nl">Link naar Nederlands beschrijving</a>
 - <a href="#photos">Link to/naar Photos/Foto's</a>
@@ -159,58 +159,58 @@ Slug: house-for-sale
 
 <h3>Surroundings/Omgeving</h3>
 
-<video width="500px" height="500px" controls="controls" src="figs/2023/08/huis-azival-00009.mov"></video>
-<img src="figs/2023/08/huis-azival-00004.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00006.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00007.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00008.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00010.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00012.jpeg" width="500">
+<video width="500px" controls="controls" src="figs/2023/08/huis-azival-00009.mov"></video>
+<img src="figs/2023/08/huis-azival-00004.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00006.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00007.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00008.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00010.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00012.jpeg" width="400">
 
 <h3>Garden/Tuin</h3>
 
-<img src="figs/2023/08/huis-azival-00001.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00002.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00003.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00013.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00014.jpeg" width="500">
-<img src="figs/2023/08/tuin-00001.JPG" width="500">
-<img src="figs/2023/08/tuin-00002.JPG" width="500">
-<img src="figs/2023/08/tuin-00003.JPG" width="500">
-<img src="figs/2023/08/tuin-00004.JPG" width="500">
-<img src="figs/2023/08/tuin-00005.JPG" width="500">
+<img src="figs/2023/08/huis-azival-00001.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00002.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00003.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00013.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00014.jpeg" width="400">
+<img src="figs/2023/08/tuin-00001.JPG" width="400">
+<img src="figs/2023/08/tuin-00002.JPG" width="400">
+<img src="figs/2023/08/tuin-00003.JPG" width="400">
+<img src="figs/2023/08/tuin-00004.JPG" width="400">
+<img src="figs/2023/08/tuin-00005.JPG" width="400">
 
 <h3>Outside/Buiten</h3>
 
-<img src="figs/2023/08/huis-azival-00026.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00005.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00011.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00038.jpeg" width="500">
-<img src="figs/2023/08/buiten-00001.JPG" width="500">
-<img src="figs/2023/08/buiten-00002.JPG" width="500">
-<img src="figs/2023/08/buiten-00003.JPG" width="500">
-<img src="figs/2023/08/buiten-00004.JPG" width="500">
+<img src="figs/2023/08/huis-azival-00026.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00005.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00011.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00038.jpeg" width="400">
+<img src="figs/2023/08/buiten-00001.JPG" width="400">
+<img src="figs/2023/08/buiten-00002.JPG" width="400">
+<img src="figs/2023/08/buiten-00003.JPG" width="400">
+<img src="figs/2023/08/buiten-00004.JPG" width="400">
 
 <h3>Indoors/Binnen</h3>
-<img src="figs/2023/08/huis-azival-00015.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00016.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00017.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00018.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00019.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00020.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00021.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00022.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00023.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00024.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00025.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00027.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00028.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00029.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00030.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00031.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00032.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00033.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00034.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00035.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00036.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00037.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00015.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00016.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00017.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00018.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00019.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00020.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00021.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00022.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00023.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00024.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00025.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00027.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00028.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00029.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00030.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00031.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00032.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00033.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00034.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00035.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00036.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00037.jpeg" width="400">

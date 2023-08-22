@@ -38,7 +38,7 @@ Contact binaries are particularly useful for a number of reasons. Firstly, their
 
 -   [Unusual KBO SQ317](http://lacerdapedro.wordpress.com/the-unusual-kbo-2003-sq317/ "The Unusual KBO 2003 SQ317")
     -   [Lacerda, McNeill & Peixinho (2013) MNRAS 437, 3824](https://www.dropbox.com/s/46pxdv6wdwqp82d/2013MNRAS_stt2180Lacerda.pdf)
--   [Extreme and Extremely Tilted KBO QG298](http://lacerdapedro.wordpress.com/extreme-and-extremely-tilted-kbo/ "Extreme and Extremely Tilted KBO")
+-   [Extreme and Extremely Tilted KBO QG298](extreme-and-extremely-tilted-kbo "Extreme and Extremely Tilted KBO")
     -   [Lacerda (2011) AJ 142, 90](http://goo.gl/P1NG5)
 -   Densities from Lightcurves:
     -   [Lacerda & Jewitt (2007) AJ 133, 1393](http://goo.gl/wAhCI)

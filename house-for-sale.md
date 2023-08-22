@@ -80,6 +80,11 @@ Slug: house-for-sale
     beach is an hour's drive. Porto airport is an hour and a half away. You can
     also get to Salamanca (Spain) in just three hours.</p>
 
+### Frequently Asked Questions
+
+> Why are you selling the house?
+
+
 <a href="#photos">Photos/Foto's</a>
 
 
@@ -153,6 +158,10 @@ Slug: house-for-sale
 <p>De oude universiteitsstad Coimbra ligt op 45 minuten rijden en het strand
     is een uur rijden. Het vliegveld van Porto ligt op anderhalf uur. Ook kun je
     in slechts drie uur naar Salamanca. </p>
+
+### Veelgestelde Vragen
+
+> Waarom verkoopt u het huis?
 
 
 <h2 id="photos">Photos/Foto's</h2>

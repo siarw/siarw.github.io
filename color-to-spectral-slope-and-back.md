@@ -15,7 +15,8 @@ Many small bodies have approximately **linear reflectivity** spectra that are ne
 The advantage of `S'` is that it can be used to compare photometric data taken in different bands. However, the idea of exchanging color for **spectral slope loses meaning if the reflectivity is clearly non-linear**.
 
 <!-- Here, I derive the formula that relates spectral slope to broadband color. I will take as an example the broadband filters B and R, which have approximate effective (central) wavelengths \$latex \\lambda_B=445\\,\\text{\\AA}&s=1\$ and \$latex \\lambda_R=660\\,\\text{\\AA}&s=1\$, so \$latex \\Delta\\lambda=\\lambda_R-\\lambda_B=215\\,\\text{\\AA}&s=1\$. -->
-Here, I derive the formula that relates spectral slope to broadband color. I will take as an example the broadband filters `B` and `R`, which have approximate effective (central) wavelengths `lambda_B = 445 Å` and `lambda_R = 660 Å`, so `Δlambda = lambda_R - lambda_B = 215 Å`.
+Here, I derive the formula that relates spectral slope to broadband color. I will take as an example the broadband filters `B` and `R`, which have approximate effective (central) wavelengths `lambda_B = 445 Å` and `lambda_R = 660 Å`.\
+So, `Δ lambda = lambda_R - lambda_B = 215 Å`.
 
 ![](figs/2021/05/color-to-spectral-slope-and-back-derivation.jpg){:width="687px"}
 

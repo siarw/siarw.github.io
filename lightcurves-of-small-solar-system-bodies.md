@@ -11,7 +11,7 @@ Status: published
 ## What is a lightcurve?
 
 
-A non-spherical[^1] body rotating in free space will reflect more or less sunlight depending on which side is facing the observer. An elongated object will reflect more light from its larger flank-side than from its smaller tip-side. The lightcurve is the brightness variation as a function of time. In general, the lightcurve is periodic (period is the spin period of the body) and its range of variation will depend on how elongated the body is.
+A non-spherical^[^1] body rotating in free space will reflect more or less sunlight depending on which side is facing the observer. An elongated object will reflect more light from its larger flank-side than from its smaller tip-side. The lightcurve is the brightness variation as a function of time. In general, the lightcurve is periodic (period is the spin period of the body) and its range of variation will depend on how elongated the body is.
 
 ![1) Non-spherical shape.](figs/2013/09/non-spherical.gif) 
 ![2) Albedo spots.](figs/2013/09/albedo-spots.gif)

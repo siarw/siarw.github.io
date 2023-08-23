@@ -80,12 +80,7 @@ Slug: house-for-sale
     beach is an hour's drive. Porto airport is an hour and a half away. You can
     also get to Salamanca (Spain) in just three hours.</p>
 
-### Frequently Asked Questions
 
-**Why are you selling the house?**
-
-
-<a href="#photos">Photos/Foto's</a>
 
 
 <h2 id="nl">Beschrijving in het Nederlands</h2>

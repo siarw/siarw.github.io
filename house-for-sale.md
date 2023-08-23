@@ -9,154 +9,80 @@ Slug: house-for-sale
 <img src="figs/2023/08/huis-azival-00026.jpeg" width="400">
 <img src="figs/2023/08/huis-azival-00006.jpeg" width="400">
 
-- <a href="#nl">Link naar Nederlands beschrijving</a>
-- <a href="#photos">Link to/naar Photos/Foto's</a>
+<!-- - <a href="#nl">Link naar Nederlands beschrijving</a> -->
+<!-- - <a href="#photos">Link to/naar Photos/Foto's</a> -->
 
-<h2 id="en">Description in English</h2>
+##  Description in English
 
-<p>We are selling our lovely house in central Portugal. It is located in a
+We are selling our lovely house in central Portugal. It is located in a
     small village between the thermal town of Luso and Mortágua. It is a
-    beautiful, quiet place with great views over the green hills.</p>
+    beautiful, quiet place with great views over the green hills.
 
-<p>The house was completely renovated in 2019 with double glazing
-    throughout.</p>
+The house was completely renovated in 2019 with double glazing
+    throughout.
 
-<p>Downstairs is a large open space with kitchen. The room remains
-    wonderfully cool in summer. Two sets of double patio doors open up to the
-    garden. There is also a toilet where the washing machine is located, with a
-    connection for a shower, should this be desired in the future.</p>
-<p>The
-    kitchen has a large fridge-freezer, a gas cooker and large oven. Hot water
-    comes from a gas boiler that works with a gas cylinder. Above the sink is a
-    large tilting window overlooking the garden.</p>
+Downstairs is a large open space with kitchen. The room remains wonderfully cool in summer. Two sets of double patio doors open up to the garden. There is also a toilet where the washing machine is located, with a connection for a shower, should this be desired in the future.
 
-<p>During the winter, the house is heated with the fireplace and the heating
-    system connected to it: a hot water tank above the fireplace distributes hot
-    water to radiators throughout the house. Wood can be bought from the
-    neighbour, who delivers it to the house - you can pile it under the stairs
-    outside.</p>
+The kitchen has a large fridge-freezer, a gas cooker and large oven. Hot water comes from a gas boiler that works with a gas cylinder. Above the sink is a large tilting window overlooking the garden.
 
-<p>Upstairs, there are two large bedrooms, one of which we use as a
-    workspace (there is fibre-optic internet, works great), and a small room
-    that fits a single bed. There is a bathroom with a spacious shower and two
-    French windows with a view. There is also space in the hall for things like
-    shelves and/or a small table.</p>
+During the winter, the house is heated with the fireplace and the heating system connected to it: a hot water tank above the fireplace distributes hot water to radiators throughout the house. Wood can be bought from the neighbour, who delivers it to the house - you can pile it under the stairs outside.
 
-<p>The energy label is A - the certificate dates from 2022.</p>
+Upstairs, there are two large bedrooms, one of which we use as a workspace (there is fibre-optic internet, works great), and a small room that fits a single bed. There is a bathroom with a spacious shower and two French windows with a view. There is also space in the hall for things like shelves and/or a small table.
 
-<p>A veranda wraps around the back and side of the house, where you can
-    enjoy a cup of coffee in the morning and listen to the birds. Everything
-    around you is green! You don't hear any traffic; a car passes by maybe three
-    times a day. At night it is dead quiet, you won't hear dogs barking, just
-    the crickets, frogs and owls.</p>
+The energy label is A - the certificate dates from 2022.
 
-<p>Next to the house is an open shed with shelving units.</p>
+A veranda wraps around the back and side of the house, where you can enjoy a cup of coffee in the morning and listen to the birds. Everything around you is green! You don't hear any traffic; a car passes by maybe three times a day. At night it is dead quiet, you won't hear dogs barking, just the crickets, frogs and owls.
 
-<p>The garden is about 750 m2 and has several olive trees (you can harvest
-    the olives and take them to the press and then enjoy your own olive oil!),
-    an apple tree, lemon tree, fig tree, strawberry trees (medronheiros) and
-    grape vines. We made our own small vegetable garden, where we grew tomatoes,
-    courgettes, peppers, various cabbages, broccoli, lettuce and cucumbers. </p>
+Next to the house is an open shed with shelving units.
 
-<p>The village has no café or shops. Two or three times a week the baker
-    drives by, on Tuesdays a fish truck and on Wednesday afternoons a mobile
-    mini market with all sorts of supplies. The sweet and helpful Portuguese
-    villagers regularly leave bags of fruit and vegetables on your doorstep and
-    constantly invite you for a glass of wine (which they make themselves!). A
-    two-minute walk away is a holiday villa with pool owned by a Dutch couple,
-    part of which is rented out to mainly Dutch tourists. Handy for when you
-    don't want/can't have guests in your own house.</p>
+The garden is about 750 m2 and has several olive trees (you can harvest the olives and take them to the press and then enjoy your own olive oil!), an apple tree, lemon tree, fig tree, strawberry trees (medronheiros) and grape vines. We made our own small vegetable garden, where we grew tomatoes, courgettes, peppers, various cabbages, broccoli, lettuce and cucumbers. 
 
-<p>We can give you the contact details of the builder who renovated the
-    house, should you want to make any changes. He speaks English.</p>
+The village has no café or shops. Two or three times a week the baker drives by, on Tuesdays a fish truck and on Wednesday afternoons a mobile mini market with all sorts of supplies. The sweet and helpful Portuguese villagers regularly leave bags of fruit and vegetables on your doorstep and constantly invite you for a glass of wine (which they make themselves!). A two-minute walk away is a holiday villa with pool owned by a Dutch couple, part of which is rented out to mainly Dutch tourists. Handy for when you don't want/can't have guests in your own house.
 
-<p>Luso, which is famous for its water, and Mortágua, where all sorts of
-    events are organised in the summer and where there are several supermarkets,
-    are 10 to 15 minutes' drive away. There are also waterfalls nearby and a
-    large dam/reservoir where you can swim. You can also enjoy hiking in/around
-    the village on the numerous paths that lead everywhere.</p>
+We can give you the contact details of the builder who renovated the house, should you want to make any changes. He speaks English.
 
-<p>The old university city of Coimbra is a 45-minute drive away and the
-    beach is an hour's drive. Porto airport is an hour and a half away. You can
-    also get to Salamanca (Spain) in just three hours.</p>
+Luso, which is famous for its water, and Mortágua, where all sorts of events are organised in the summer and where there are several supermarkets, are 10 to 15 minutes' drive away. There are also waterfalls nearby and a large dam/reservoir where you can swim. You can also enjoy hiking in/around the village on the numerous paths that lead everywhere.
+
+The old university city of Coimbra is a 45-minute drive away and the beach is an hour's drive. Porto airport is an hour and a half away. You can also get to Salamanca (Spain) in just three hours.
 
 
 
 
-<h2 id="nl">Beschrijving in het Nederlands</h2>
+##  Beschrijving in het Nederlands
 
-<p>Te koop: heel fijn huis in een rustig dorpje in Centraal Portugal.
+Te koop: heel fijn huis in een rustig dorpje in Centraal Portugal.
 
-<p>Wij verkopen ons mooie huis in het midden van Portugal. Het ligt in een
-    klein dorpje tussen het thermenoord Luso en Mortágua. Het is een prachtige,
-    rustige plek met een geweldig uitzicht over de groene heuvels. </p>
+Wij verkopen ons mooie huis in het midden van Portugal. Het ligt in een klein dorpje tussen het thermenoord Luso en Mortágua. Het is een prachtige, rustige plek met een geweldig uitzicht over de groene heuvels. 
 
-<p>Het huis is in 2019 geheel gerenoveerd met overal dubbele beglazing.
-    Beneden is een grote open ruimte met keuken. Hier blijft het in de zomer
-    heerlijk koel. Er zijn twee sets dubbele openslaande deuren. Ook is er een
-    toilet waar de wasmachine staat, met een aansluiting voor een douche, mocht
-    dit in de toekomst wenselijk zijn. </p>
+Het huis is in 2019 geheel gerenoveerd met overal dubbele beglazing.  Beneden is een grote open ruimte met keuken. Hier blijft het in de zomer heerlijk koel. Er zijn twee sets dubbele openslaande deuren. Ook is er een toilet waar de wasmachine staat, met een aansluiting voor een douche, mocht dit in de toekomst wenselijk zijn. 
 
-<p>De keuken heeft een grote koelkast met vriezer, een gasfornuis en grote
-    oven. Warm water komt van een gasboiler die met een gasfles werkt. Boven de
-    gootsteen zit een groot kiepraam met uitzicht op de tuin. </p>
+De keuken heeft een grote koelkast met vriezer, een gasfornuis en grote oven. Warm water komt van een gasboiler die met een gasfles werkt. Boven de gootsteen zit een groot kiepraam met uitzicht op de tuin. 
 
-<p>Het huis wordt in de winter verwarmd met de haard en het
-    verwarmingssysteem dat daaraan zit gekoppeld: een warmwaterreservoir boven
-    de haard verspreidt het warme water naar de radiatoren in het huis. Hout kun
-    je kopen van de buurman, die het aan huis levert - je kunt het onder de trap
-    buiten opstapelen. </p>
+Het huis wordt in de winter verwarmd met de haard en het verwarmingssysteem dat daaraan zit gekoppeld: een warmwaterreservoir boven de haard verspreidt het warme water naar de radiatoren in het huis. Hout kun je kopen van de buurman, die het aan huis levert - je kunt het onder de trap buiten opstapelen. 
 
-<p>Boven zijn er twee grote slaapkamers, waarvan wij er één als werkruimte
-    gebruiken (er is glasvezel internet, werkt uitstekend), en een klein
-    kamertje waar een eenpersoonsbed in past. Ook is er een badkamer met een
-    ruime douche en twee openslaande ramen met uitzicht. In de hal is er ook
-    ruimte voor zaken als een kast en een tafeltje. </p>
+Boven zijn er twee grote slaapkamers, waarvan wij er één als werkruimte gebruiken (er is glasvezel internet, werkt uitstekend), en een klein kamertje waar een eenpersoonsbed in past. Ook is er een badkamer met een ruime douche en twee openslaande ramen met uitzicht. In de hal is er ook ruimte voor zaken als een kast en een tafeltje. 
 
-<p>Het energielabel is A, het certificaat dateert uit 2022. </p>
+Het energielabel is A, het certificaat dateert uit 2022. 
 
-<p>Aan de achterkant en zijkant van het huis loopt een veranda, waar je 's
-    ochtends van een kopje koffie kunt genieten en naar de vogels kunt
-    luisteren. Alles om je heen is groen! Je hoort geen verkeer, er komt
-    misschien drie keer per dag een auto voorbij. 's Nachts is het doodstil, je
-    hoort geen geblaf van honden, alleen de krekels, kikkers en uiltjes. </p>
+Aan de achterkant en zijkant van het huis loopt een veranda, waar je 's ochtends van een kopje koffie kunt genieten en naar de vogels kunt luisteren. Alles om je heen is groen! Je hoort geen verkeer, er komt misschien drie keer per dag een auto voorbij. 's Nachts is het doodstil, je hoort geen geblaf van honden, alleen de krekels, kikkers en uiltjes. 
 
-<p>Naast het huis is een open schuur met stellingkasten. </p>
+Naast het huis is een open schuur met stellingkasten. 
 
-<p>De tuin is ongeveer 700 m2 en heeft diverse olijfbomen (je kunt de
-    olijven oogsten en naar de pers brengen en dan kun je van je eigen olie
-    genieten!), een appelboom, citroenboom, vijgenboom, aardbeibomen
-    (medronheiros) en druivenranken. Wij hebben zelf een klein moestuintje
-    gemaakt, waar we tomaten, courgettes, paprika's, diverse kolen, broccoli,
-    sla en komkommers hebben gekweekt. </p>
+De tuin is ongeveer 700 m2 en heeft diverse olijfbomen (je kunt de olijven oogsten en naar de pers brengen en dan kun je van je eigen olie genieten!), een appelboom, citroenboom, vijgenboom, aardbeibomen (medronheiros) en druivenranken. Wij hebben zelf een klein moestuintje gemaakt, waar we tomaten, courgettes, paprika's, diverse kolen, broccoli, sla en komkommers hebben gekweekt. 
 
-<p>Het dorpje heeft geen café of winkeltjes. Twee of drie keer per week komt
-    de bakker langs, op dinsdag een viskar en op woensdagmiddag een SRV-wagen
-    met van alles en nog wat. De lieve en behulpzame Portugese dorpsbewoners
-    leggen regelmatig zakken met groente en fruit voor de deur en nodigen je
-    voortdurend uit voor een glaasje wijn (die ze zelf maken!). Op twee minuten
-    lopen ligt een vakantievilla met zwembad van een Nederlands stel, waarvan
-    een deel wordt verhuurd aan voornamelijk Nederlandse toeristen. Handig voor
-    als je geen gasten in je eigen huis wilt/kunt hebben. </p>
+Het dorpje heeft geen café of winkeltjes. Twee of drie keer per week komt de bakker langs, op dinsdag een viskar en op woensdagmiddag een SRV-wagen met van alles en nog wat. De lieve en behulpzame Portugese dorpsbewoners leggen regelmatig zakken met groente en fruit voor de deur en nodigen je voortdurend uit voor een glaasje wijn (die ze zelf maken!). Op twee minuten lopen ligt een vakantievilla met zwembad van een Nederlands stel, waarvan een deel wordt verhuurd aan voornamelijk Nederlandse toeristen. Handig voor als je geen gasten in je eigen huis wilt/kunt hebben. 
 
-<p>We kunnen je de contactgegevens geven van de aannemer die het huis heeft
-    verbouwd, mocht je er nog wat aan willen veranderen. Hij spreekt Engels.
-</p>
+We kunnen je de contactgegevens geven van de aannemer die het huis heeft verbouwd, mocht je er nog wat aan willen veranderen. Hij spreekt Engels.
 
-<p>Luso, dat bekendstaat om zijn water, en Mortágua, waar in de zomer van
-    alles wordt georganiseerd en waar diverse supermarkten zijn, liggen op 10 à
-    15 minuten rijden. Verder zijn er watervallen in de buurt en een stuwmeer
-    waar je kunt zwemmen. Ook kun je in/rond het dorp heerlijk wandelen op de
-    talloze paden die overal heen leiden. Er zijn hier nooit bosbranden geweest.
-</p>
 
-<p>De oude universiteitsstad Coimbra ligt op 45 minuten rijden en het strand
-    is een uur rijden. Het vliegveld van Porto ligt op anderhalf uur. Ook kun je
-    in slechts drie uur naar Salamanca. </p>
+Luso, dat bekendstaat om zijn water, en Mortágua, waar in de zomer van alles wordt georganiseerd en waar diverse supermarkten zijn, liggen op 10 à 15 minuten rijden. Verder zijn er watervallen in de buurt en een stuwmeer waar je kunt zwemmen. Ook kun je in/rond het dorp heerlijk wandelen op de talloze paden die overal heen leiden. Er zijn hier nooit bosbranden geweest.
 
-<h2 id="photos">Photos/Foto's</h2>
 
-<h3>Surroundings/Omgeving</h3>
+De oude universiteitsstad Coimbra ligt op 45 minuten rijden en het strand is een uur rijden. Het vliegveld van Porto ligt op anderhalf uur. Ook kun je in slechts drie uur naar Salamanca. 
+
+##  Photos/Foto's
+
+### Surroundings/Omgeving
 
 <video width="500px" controls="controls" src="figs/2023/08/huis-azival-00009.mov"></video>
 <img src="figs/2023/08/huis-azival-00004.jpeg" width="400">
@@ -166,7 +92,7 @@ Slug: house-for-sale
 <img src="figs/2023/08/huis-azival-00010.jpeg" width="400">
 <img src="figs/2023/08/huis-azival-00012.jpeg" width="400">
 
-<h3>Garden/Tuin</h3>
+### Garden/Tuin
 
 <img src="figs/2023/08/huis-azival-00001.jpeg" width="400">
 <img src="figs/2023/08/huis-azival-00002.jpeg" width="400">
@@ -179,7 +105,7 @@ Slug: house-for-sale
 <img src="figs/2023/08/tuin-00004.JPG" width="400">
 <img src="figs/2023/08/tuin-00005.JPG" width="400">
 
-<h3>Outside/Buiten</h3>
+### Outside/Buiten
 
 <img src="figs/2023/08/huis-azival-00026.jpeg" width="400">
 <img src="figs/2023/08/huis-azival-00005.jpeg" width="400">
@@ -190,7 +116,7 @@ Slug: house-for-sale
 <img src="figs/2023/08/buiten-00003.JPG" width="400">
 <img src="figs/2023/08/buiten-00004.JPG" width="400">
 
-<h3>Indoors/Binnen</h3>
+### Indoors/Binnen
 <img src="figs/2023/08/huis-azival-00015.jpeg" width="400">
 <img src="figs/2023/08/huis-azival-00016.jpeg" width="400">
 <img src="figs/2023/08/huis-azival-00017.jpeg" width="400">
@@ -214,12 +140,12 @@ Slug: house-for-sale
 <img src="figs/2023/08/huis-azival-00036.jpeg" width="400">
 <img src="figs/2023/08/huis-azival-00037.jpeg" width="400">
 
-<h3 id="floorplan">Floorplan / Plattegrond</h3>
+<h3 Floorplan / Plattegrond
 
 <img src="figs/2023/08/plattegrond.jpg">
 
 
-<h2>Veelgestelde Vragen</h2> 
+## Veelgestelde Vragen 
 
 ### Waarom verkopen jullie het huis?
 
@@ -256,7 +182,7 @@ Helaas weten we dat niet, omdat we zelf geen kinderen hebben en er hier in het d
 Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie. De oudere mensen hier in het dorp spreken geen Engels, wel Frans. Er wonen talloze buitenlanders in Portugal die geen woord Portugees spreken en toch alles gedaan krijgen, dus de taal hoeft geen barrière te zijn. Maar als je echt leuk contact met de mensen wilt, doe je er goed aan wat Portugees te leren. En met een wijntje erbij verloopt de communicatie al een stuk vlotter! ;-)
 
 
-<h2>Frequently Asked Questions</h2> 
+## Frequently Asked Questions 
 
 ### Why are you selling the house?
 

@@ -236,9 +236,9 @@ Er is geen put of stroom op het terrein, maar in het dorp zijn er wel onzichtbar
 Wij vangen regenwater op via een goot op het schuurtje - het water belandt in een vat en daarmee bewateren wij de tuin.
 
 
-**Is er riolering of een sceptic tank?**
+**Is er riolering of een septic tank?**
 
-Er is een sceptic tank die verder geen actie behoeft - je hebt er geen omkijken naar.
+Er is een septic tank die verder geen actie behoeft - je hebt er geen omkijken naar.
 
 
 **Hoe ver ben je van het bos?**
@@ -273,9 +273,9 @@ There is no well or electricity on the property, but there are invisible streams
 We collect rainwater through a gutter on the shed - the water ends up in a barrel and with it we water the garden.
 
 
-**Is there sewerage or a sceptic tank?**
+**Is there sewerage or a septic tank?**
 
-There is a sceptic tank that needs no further action - you don't have to worry about it.
+There is a septic tank that needs no further action - you don't have to worry about it.
 
 
 **How far are you from the forest?**

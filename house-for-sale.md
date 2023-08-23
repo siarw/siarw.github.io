@@ -11,10 +11,11 @@ Slug: house-for-sale
 
 [Link naar Nederlandse beschrijving.](#beschrijving-in-het-nederlands) | [Link naar foto's.](#photos) | [Link naar plattegrond.](#floorplan-plattegrond)
 
-[Link to photos.](#photos) | [Link to floorplan.](#floorplan-plattegrond)
 
 
 ##  Description in English
+
+[Link to photos.](#photos) | [Link to floorplan.](#floorplan-plattegrond)
 
 We are selling our lovely house in central Portugal. It is located in a
     small village between the thermal town of Luso and Mortágua. It is a

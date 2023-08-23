@@ -12,6 +12,7 @@ Slug: house-for-sale
 [Link naar Nederlandse beschrijving.](#beschrijving-in-het-nederlands) | [Link naar foto's.](#photos) | [Link naar plattegrond.](#floorplan-plattegrond)
 
 
+---
 
 ##  Description in English
 

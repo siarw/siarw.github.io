@@ -82,7 +82,7 @@ Slug: house-for-sale
 
 ### Frequently Asked Questions
 
-> Why are you selling the house?
+**Why are you selling the house?**
 
 
 <a href="#photos">Photos/Foto's</a>
@@ -159,48 +159,7 @@ Slug: house-for-sale
     is een uur rijden. Het vliegveld van Porto ligt op anderhalf uur. Ook kun je
     in slechts drie uur naar Salamanca. </p>
 
-### Veelgestelde Vragen
-
-**Waarom verkopen jullie het huis?**
-
-Omdat Pedro vanaf 1 januari in Nederland gaat werken en we dus weer helemaal in Nederland gaan wonen.
-
-**Is er water op het terrein?**
-
-Er is geen put of stroom op het terrein, maar in het dorp zijn er wel onzichtbare stroompjes, waar diverse bewoners van tappen om hun stukjes land te irrigeren.
-Wij vangen regenwater op via een goot op het schuurtje - het water belandt in een vat en daarmee bewateren wij de tuin.
-
-
-**Is er riolering of een sceptic tank?**
-
-Er is een sceptic tank die verder geen actie behoeft - je hebt er geen omkijken naar.
-
-
-**Hoe ver ben je van het bos?**
-
-Het bos is letterlijk om je heen, je staat binnen twee minuten op een pad tussen de bomen.
-
-
-**Heeft het huis een woonvergunning?**
-
-Ja, het is een gewoon woonhuis waar je probleemloos kunt wonen.
-
-
-**Zijn er scholen in de buurt?**
-
-Helaas weten we dat niet, omdat we zelf geen kinderen hebben en er hier in het dorp ook geen kinderen wonen.
-
-
-**Spreken Portugezen Engels?**
-
-Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie. De oudere mensen hier in het dorp spreken geen Engels, wel Frans. Er wonen talloze buitenlanders in Portugal die geen woord Portugees spreken en toch alles gedaan krijgen, dus de taal hoeft geen barrière te zijn. Maar als je echt leuk contact met de mensen wilt, doe je er goed aan wat Portugees te leren. En met een wijntje erbij verloopt de communicatie al een stuk vlotter! ;-)
-
-
 <h2 id="photos">Photos/Foto's</h2>
-
-<h3 id="floorplan">Floorplan / Plattegrond</h3>
-
-<img src="figs/2023/08/plattegrond.jpg">
 
 <h3>Surroundings/Omgeving</h3>
 
@@ -259,3 +218,45 @@ Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie.
 <img src="figs/2023/08/huis-azival-00035.jpeg" width="400">
 <img src="figs/2023/08/huis-azival-00036.jpeg" width="400">
 <img src="figs/2023/08/huis-azival-00037.jpeg" width="400">
+
+<h3 id="floorplan">Floorplan / Plattegrond</h3>
+
+<img src="figs/2023/08/plattegrond.jpg">
+
+
+<h2>Veelgestelde Vragen</h2> 
+
+**Waarom verkopen jullie het huis?**
+
+Omdat Pedro vanaf 1 januari in Nederland gaat werken en we dus weer helemaal in Nederland gaan wonen.
+
+**Is er water op het terrein?**
+
+Er is geen put of stroom op het terrein, maar in het dorp zijn er wel onzichtbare stroompjes, waar diverse bewoners van tappen om hun stukjes land te irrigeren.
+Wij vangen regenwater op via een goot op het schuurtje - het water belandt in een vat en daarmee bewateren wij de tuin.
+
+
+**Is er riolering of een sceptic tank?**
+
+Er is een sceptic tank die verder geen actie behoeft - je hebt er geen omkijken naar.
+
+
+**Hoe ver ben je van het bos?**
+
+Het bos is letterlijk om je heen, je staat binnen twee minuten op een pad tussen de bomen.
+
+
+**Heeft het huis een woonvergunning?**
+
+Ja, het is een gewoon woonhuis waar je probleemloos kunt wonen.
+
+
+**Zijn er scholen in de buurt?**
+
+Helaas weten we dat niet, omdat we zelf geen kinderen hebben en er hier in het dorp ook geen kinderen wonen.
+
+
+**Spreken Portugezen Engels?**
+
+Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie. De oudere mensen hier in het dorp spreken geen Engels, wel Frans. Er wonen talloze buitenlanders in Portugal die geen woord Portugees spreken en toch alles gedaan krijgen, dus de taal hoeft geen barrière te zijn. Maar als je echt leuk contact met de mensen wilt, doe je er goed aan wat Portugees te leren. En met een wijntje erbij verloopt de communicatie al een stuk vlotter! ;-)
+

@@ -6,7 +6,7 @@ Slug: house-for-sale
 
 # Lovely house for sale in a quiet village in central Portugal
 
-<img src="figs/2023/08/huis-azival-00026.jpeg" width="500">
+<!-- <img src="figs/2023/08/huis-azival-00026.jpeg" width="500"> -->
 <img src="figs/2023/08/huis-azival-00006.jpeg" width="500">
 
 [Link naar Nederlands beschrijving.](#beschrijving-in-het-nederlands)
@@ -120,7 +120,7 @@ Luso, dat bekendstaat om zijn water, en Mortágua, waar in de zomer van alles wo
 
 De oude universiteitsstad Coimbra ligt op 45 minuten rijden en het strand is een uur rijden. Het vliegveld van Porto ligt op anderhalf uur. Ook kun je in slechts drie uur naar Salamanca. 
 
-#### Veelgestelde Vragen 
+### Veelgestelde Vragen 
 
 #### Waarom verkopen jullie het huis?
 

@@ -260,3 +260,39 @@ Helaas weten we dat niet, omdat we zelf geen kinderen hebben en er hier in het d
 
 Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie. De oudere mensen hier in het dorp spreken geen Engels, wel Frans. Er wonen talloze buitenlanders in Portugal die geen woord Portugees spreken en toch alles gedaan krijgen, dus de taal hoeft geen barrière te zijn. Maar als je echt leuk contact met de mensen wilt, doe je er goed aan wat Portugees te leren. En met een wijntje erbij verloopt de communicatie al een stuk vlotter! ;-)
 
+
+<h2>Frequently Asked Questions</h2> 
+
+**Why are you selling the house?**
+
+Because Pedro will start working in the Netherlands from 1 January, so we will be living in the Netherlands all over again.
+
+**Is there water on the property?**
+
+There is no well or electricity on the property, but there are invisible streams in the village, from which several residents tap to irrigate their pieces of land.
+We collect rainwater through a gutter on the shed - the water ends up in a barrel and with it we water the garden.
+
+
+**Is there sewerage or a sceptic tank?**
+
+There is a sceptic tank that needs no further action - you don't have to worry about it.
+
+
+**How far are you from the forest?**
+
+The forest is literally all around you, you are on a path among the trees within two minutes.
+
+
+**Does the house have a residential licence?**
+
+Yes, it is an ordinary residential house where you can live without any problem.
+
+
+**Are there any schools nearby?**
+
+Unfortunately, we don't know, as we don't have any children of our own and no children live here in the village.
+
+
+**Do Portuguese people speak English?**
+
+In general, Portuguese do speak some English, especially the younger generation. The older people here in the village do not speak English, only French. There are countless foreigners living in Portugal who don't speak a word of Portuguese and still get everything done, so language need not be a barrier. But if you want really nice contact with people, you would do well to learn some Portuguese. And with a glass of wine, communication will be a lot smoother! ;-)

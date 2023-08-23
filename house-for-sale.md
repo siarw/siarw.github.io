@@ -226,73 +226,73 @@ Slug: house-for-sale
 
 <h2>Veelgestelde Vragen</h2> 
 
-**Waarom verkopen jullie het huis?**
+### Waarom verkopen jullie het huis?
 
 Omdat Pedro vanaf 1 januari in Nederland gaat werken en we dus weer helemaal in Nederland gaan wonen.
 
-**Is er water op het terrein?**
+### Is er water op het terrein?
 
 Er is geen put of stroom op het terrein, maar in het dorp zijn er wel onzichtbare stroompjes, waar diverse bewoners van tappen om hun stukjes land te irrigeren.
 Wij vangen regenwater op via een goot op het schuurtje - het water belandt in een vat en daarmee bewateren wij de tuin.
 
 
-**Is er riolering of een septic tank?**
+### Is er riolering of een septic tank?
 
 Er is een septic tank die verder geen actie behoeft - je hebt er geen omkijken naar.
 
 
-**Hoe ver ben je van het bos?**
+### Hoe ver ben je van het bos?
 
 Het bos is letterlijk om je heen, je staat binnen twee minuten op een pad tussen de bomen.
 
 
-**Heeft het huis een woonvergunning?**
+### Heeft het huis een woonvergunning?
 
 Ja, het is een gewoon woonhuis waar je probleemloos kunt wonen.
 
 
-**Zijn er scholen in de buurt?**
+### Zijn er scholen in de buurt?
 
 Helaas weten we dat niet, omdat we zelf geen kinderen hebben en er hier in het dorp ook geen kinderen wonen.
 
 
-**Spreken Portugezen Engels?**
+### Spreken Portugezen Engels?
 
 Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie. De oudere mensen hier in het dorp spreken geen Engels, wel Frans. Er wonen talloze buitenlanders in Portugal die geen woord Portugees spreken en toch alles gedaan krijgen, dus de taal hoeft geen barrière te zijn. Maar als je echt leuk contact met de mensen wilt, doe je er goed aan wat Portugees te leren. En met een wijntje erbij verloopt de communicatie al een stuk vlotter! ;-)
 
 
 <h2>Frequently Asked Questions</h2> 
 
-**Why are you selling the house?**
+### Why are you selling the house?
 
 Because Pedro will start working in the Netherlands from 1 January, so we will be living in the Netherlands all over again.
 
-**Is there water on the property?**
+### Is there water on the property?
 
 There is no well or electricity on the property, but there are invisible streams in the village, from which several residents tap to irrigate their pieces of land.
 We collect rainwater through a gutter on the shed - the water ends up in a barrel and with it we water the garden.
 
 
-**Is there sewerage or a septic tank?**
+### Is there sewerage or a septic tank?
 
 There is a septic tank that needs no further action - you don't have to worry about it.
 
 
-**How far are you from the forest?**
+### How far are you from the forest?
 
 The forest is literally all around you, you are on a path among the trees within two minutes.
 
 
-**Does the house have a residential licence?**
+### Does the house have a residential licence?
 
 Yes, it is an ordinary residential house where you can live without any problem.
 
 
-**Are there any schools nearby?**
+### Are there any schools nearby?
 
 Unfortunately, we don't know, as we don't have any children of our own and no children live here in the village.
 
 
-**Do Portuguese people speak English?**
+### Do Portuguese people speak English?
 
 In general, Portuguese do speak some English, especially the younger generation. The older people here in the village do not speak English, only French. There are countless foreigners living in Portugal who don't speak a word of Portuguese and still get everything done, so language need not be a barrier. But if you want really nice contact with people, you would do well to learn some Portuguese. And with a glass of wine, communication will be a lot smoother! ;-)

@@ -6,8 +6,12 @@ Slug: house-for-sale
 
 # Lovely house for sale in a quiet village in central Portugal
 
-<img src="figs/2023/08/huis-azival-00026.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00006.jpeg" width="400">
+<img src="figs/2023/08/huis-azival-00026.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00006.jpeg" width="500">
+
+[Link naar Nederlands beschrijving.](#beschrijving-in-het-nederlands)
+
+[Link to/naar photos/foto's.](#photos)
 
 <!-- - <a href="#nl">Link naar Nederlands beschrijving</a> -->
 <!-- - <a href="#photos">Link to/naar Photos/Foto's</a> -->
@@ -46,9 +50,45 @@ Luso, which is famous for its water, and Mortágua, where all sorts of events ar
 The old university city of Coimbra is a 45-minute drive away and the beach is an hour's drive. Porto airport is an hour and a half away. You can also get to Salamanca (Spain) in just three hours.
 
 
+### Frequently Asked Questions 
+
+#### Why are you selling the house?
+
+Because Pedro will start working in the Netherlands from 1 January, so we will be living in the Netherlands all over again.
+
+#### Is there water on the property?
+
+There is no well or electricity on the property, but there are invisible streams in the village, from which several residents tap to irrigate their pieces of land.
+We collect rainwater through a gutter on the shed - the water ends up in a barrel and with it we water the garden.
 
 
-##  Beschrijving in het Nederlands
+#### Is there sewerage or a septic tank?
+
+There is a septic tank that needs no further action - you don't have to worry about it.
+
+
+#### How far are you from the forest?
+
+The forest is literally all around you, you are on a path among the trees within two minutes.
+
+
+#### Does the house have a residential licence?
+
+Yes, it is an ordinary residential house where you can live without any problem.
+
+
+#### Are there any schools nearby?
+
+Unfortunately, we don't know, as we don't have any children of our own and no children live here in the village.
+
+
+#### Do Portuguese people speak English?
+
+In general, Portuguese do speak some English, especially the younger generation. The older people here in the village do not speak English, only French. There are countless foreigners living in Portugal who don't speak a word of Portuguese and still get everything done, so language need not be a barrier. But if you want really nice contact with people, you would do well to learn some Portuguese. And with a glass of wine, communication will be a lot smoother! ;-)
+
+
+
+## Beschrijving in het Nederlands
 
 Te koop: heel fijn huis in een rustig dorpje in Centraal Portugal.
 
@@ -80,140 +120,103 @@ Luso, dat bekendstaat om zijn water, en Mortágua, waar in de zomer van alles wo
 
 De oude universiteitsstad Coimbra ligt op 45 minuten rijden en het strand is een uur rijden. Het vliegveld van Porto ligt op anderhalf uur. Ook kun je in slechts drie uur naar Salamanca. 
 
-##  Photos/Foto's
+#### Veelgestelde Vragen 
 
-### Surroundings/Omgeving
-
-<video width="500px" controls="controls" src="figs/2023/08/huis-azival-00009.mov"></video>
-<img src="figs/2023/08/huis-azival-00004.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00006.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00007.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00008.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00010.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00012.jpeg" width="400">
-
-### Garden/Tuin
-
-<img src="figs/2023/08/huis-azival-00001.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00002.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00003.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00013.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00014.jpeg" width="400">
-<img src="figs/2023/08/tuin-00001.JPG" width="400">
-<img src="figs/2023/08/tuin-00002.JPG" width="400">
-<img src="figs/2023/08/tuin-00003.JPG" width="400">
-<img src="figs/2023/08/tuin-00004.JPG" width="400">
-<img src="figs/2023/08/tuin-00005.JPG" width="400">
-
-### Outside/Buiten
-
-<img src="figs/2023/08/huis-azival-00026.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00005.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00011.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00038.jpeg" width="400">
-<img src="figs/2023/08/buiten-00001.JPG" width="400">
-<img src="figs/2023/08/buiten-00002.JPG" width="400">
-<img src="figs/2023/08/buiten-00003.JPG" width="400">
-<img src="figs/2023/08/buiten-00004.JPG" width="400">
-
-### Indoors/Binnen
-<img src="figs/2023/08/huis-azival-00015.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00016.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00017.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00018.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00019.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00020.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00021.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00022.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00023.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00024.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00025.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00027.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00028.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00029.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00030.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00031.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00032.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00033.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00034.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00035.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00036.jpeg" width="400">
-<img src="figs/2023/08/huis-azival-00037.jpeg" width="400">
-
-<h3 Floorplan / Plattegrond
-
-<img src="figs/2023/08/plattegrond.jpg">
-
-
-## Veelgestelde Vragen 
-
-### Waarom verkopen jullie het huis?
+#### Waarom verkopen jullie het huis?
 
 Omdat Pedro vanaf 1 januari in Nederland gaat werken en we dus weer helemaal in Nederland gaan wonen.
 
-### Is er water op het terrein?
+#### Is er water op het terrein?
 
 Er is geen put of stroom op het terrein, maar in het dorp zijn er wel onzichtbare stroompjes, waar diverse bewoners van tappen om hun stukjes land te irrigeren.
 Wij vangen regenwater op via een goot op het schuurtje - het water belandt in een vat en daarmee bewateren wij de tuin.
 
 
-### Is er riolering of een septic tank?
+#### Is er riolering of een septic tank?
 
 Er is een septic tank die verder geen actie behoeft - je hebt er geen omkijken naar.
 
 
-### Hoe ver ben je van het bos?
+#### Hoe ver ben je van het bos?
 
 Het bos is letterlijk om je heen, je staat binnen twee minuten op een pad tussen de bomen.
 
 
-### Heeft het huis een woonvergunning?
+#### Heeft het huis een woonvergunning?
 
 Ja, het is een gewoon woonhuis waar je probleemloos kunt wonen.
 
 
-### Zijn er scholen in de buurt?
+#### Zijn er scholen in de buurt?
 
 Helaas weten we dat niet, omdat we zelf geen kinderen hebben en er hier in het dorp ook geen kinderen wonen.
 
 
-### Spreken Portugezen Engels?
+#### Spreken Portugezen Engels?
 
 Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie. De oudere mensen hier in het dorp spreken geen Engels, wel Frans. Er wonen talloze buitenlanders in Portugal die geen woord Portugees spreken en toch alles gedaan krijgen, dus de taal hoeft geen barrière te zijn. Maar als je echt leuk contact met de mensen wilt, doe je er goed aan wat Portugees te leren. En met een wijntje erbij verloopt de communicatie al een stuk vlotter! ;-)
 
+## Photos
 
-## Frequently Asked Questions 
+### Surroundings/Omgeving
 
-### Why are you selling the house?
+<video width="500px" controls="controls" src="figs/2023/08/huis-azival-00009.mov"></video>
+<img src="figs/2023/08/huis-azival-00004.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00006.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00007.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00008.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00010.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00012.jpeg" width="500">
 
-Because Pedro will start working in the Netherlands from 1 January, so we will be living in the Netherlands all over again.
+### Garden/Tuin
 
-### Is there water on the property?
+<img src="figs/2023/08/huis-azival-00001.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00002.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00003.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00013.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00014.jpeg" width="500">
+<img src="figs/2023/08/tuin-00001.JPG" width="500">
+<img src="figs/2023/08/tuin-00002.JPG" width="500">
+<img src="figs/2023/08/tuin-00003.JPG" width="500">
+<img src="figs/2023/08/tuin-00004.JPG" width="500">
+<img src="figs/2023/08/tuin-00005.JPG" width="500">
 
-There is no well or electricity on the property, but there are invisible streams in the village, from which several residents tap to irrigate their pieces of land.
-We collect rainwater through a gutter on the shed - the water ends up in a barrel and with it we water the garden.
+### Outside/Buiten
 
+<img src="figs/2023/08/huis-azival-00026.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00005.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00011.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00038.jpeg" width="500">
+<img src="figs/2023/08/buiten-00001.JPG" width="500">
+<img src="figs/2023/08/buiten-00002.JPG" width="500">
+<img src="figs/2023/08/buiten-00003.JPG" width="500">
+<img src="figs/2023/08/buiten-00004.JPG" width="500">
 
-### Is there sewerage or a septic tank?
+### Indoors/Binnen
+<img src="figs/2023/08/huis-azival-00015.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00016.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00017.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00018.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00019.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00020.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00021.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00022.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00023.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00024.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00025.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00027.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00028.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00029.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00030.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00031.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00032.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00033.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00034.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00035.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00036.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00037.jpeg" width="500">
 
-There is a septic tank that needs no further action - you don't have to worry about it.
+<h3 Floorplan / Plattegrond
 
+<img src="figs/2023/08/plattegrond.jpg">
 
-### How far are you from the forest?
-
-The forest is literally all around you, you are on a path among the trees within two minutes.
-
-
-### Does the house have a residential licence?
-
-Yes, it is an ordinary residential house where you can live without any problem.
-
-
-### Are there any schools nearby?
-
-Unfortunately, we don't know, as we don't have any children of our own and no children live here in the village.
-
-
-### Do Portuguese people speak English?
-
-In general, Portuguese do speak some English, especially the younger generation. The older people here in the village do not speak English, only French. There are countless foreigners living in Portugal who don't speak a word of Portuguese and still get everything done, so language need not be a barrier. But if you want really nice contact with people, you would do well to learn some Portuguese. And with a glass of wine, communication will be a lot smoother! ;-)

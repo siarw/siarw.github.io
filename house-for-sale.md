@@ -7,14 +7,12 @@ Slug: house-for-sale
 # Lovely house for sale in a quiet village in central Portugal
 
 <!-- <img src="figs/2023/08/huis-azival-00026.jpeg" width="500"> -->
-<img src="figs/2023/08/huis-azival-00006.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00006.jpeg">
 
-[Link naar Nederlands beschrijving.](#beschrijving-in-het-nederlands)
+[Link naar Nederlandse beschrijving.](#beschrijving-in-het-nederlands) | [Link naar foto's.](#photos) | [Link naar plattegrond.](#floorplan-plattegrond)
 
-[Link to/naar photos/foto's.](#photos)
+[Link to photos.](#photos) | [Link to floorplan.](#floorplan-plattegrond)
 
-<!-- - <a href="#nl">Link naar Nederlands beschrijving</a> -->
-<!-- - <a href="#photos">Link to/naar Photos/Foto's</a> -->
 
 ##  Description in English
 
@@ -87,6 +85,7 @@ Unfortunately, we don't know, as we don't have any children of our own and no ch
 In general, Portuguese do speak some English, especially the younger generation. The older people here in the village do not speak English, only French. There are countless foreigners living in Portugal who don't speak a word of Portuguese and still get everything done, so language need not be a barrier. But if you want really nice contact with people, you would do well to learn some Portuguese. And with a glass of wine, communication will be a lot smoother! ;-)
 
 
+---
 
 ## Beschrijving in het Nederlands
 
@@ -156,6 +155,8 @@ Helaas weten we dat niet, omdat we zelf geen kinderen hebben en er hier in het d
 
 Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie. De oudere mensen hier in het dorp spreken geen Engels, wel Frans. Er wonen talloze buitenlanders in Portugal die geen woord Portugees spreken en toch alles gedaan krijgen, dus de taal hoeft geen barrière te zijn. Maar als je echt leuk contact met de mensen wilt, doe je er goed aan wat Portugees te leren. En met een wijntje erbij verloopt de communicatie al een stuk vlotter! ;-)
 
+---
+
 ## Photos
 
 ### Surroundings/Omgeving
@@ -181,7 +182,7 @@ Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie.
 <img src="figs/2023/08/tuin-00004.JPG" width="500">
 <img src="figs/2023/08/tuin-00005.JPG" width="500">
 
-### Outside/Buiten
+### Outdoors/Buiten
 
 <img src="figs/2023/08/huis-azival-00026.jpeg" width="500">
 <img src="figs/2023/08/huis-azival-00005.jpeg" width="500">
@@ -216,7 +217,7 @@ Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie.
 <img src="figs/2023/08/huis-azival-00036.jpeg" width="500">
 <img src="figs/2023/08/huis-azival-00037.jpeg" width="500">
 
-<h3 Floorplan / Plattegrond
+### Floorplan Plattegrond
 
 <img src="figs/2023/08/plattegrond.jpg">
 

@@ -8,7 +8,7 @@ Status: published
 
 # Extreme and Extremely Tilted KBO
 
-> Tilted and oddly shaped Kuiper belt object may be the first of many to be discovered
+## Tilted and oddly shaped Kuiper belt object may be the first of many to be discovered
 
 **Belfast, UK, October 2011 – The oddly shaped Kuiper belt object 2001QG298 is surprisingly tilted with respect to its orbit around the sun. The most important implication of this discovery is that it suggests that contact binaries such as 2001QG298 are the most common type of binary in the Kuiper belt. I will present this finding at the Joint Meeting of the European Planetary Science Congress and the Division for Planetary Sciences in Nantes, France, on 3 Oct 2011.**
 

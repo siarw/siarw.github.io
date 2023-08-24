@@ -22,8 +22,10 @@ Since 2022, I am a member of the Institute of Astrophysics in Portugal, and work
 - Postdoc researcher, [Coimbra University](http://www.uc.pt/fctuc/dmat), Portugal, 2005-2006
 - PhD researcher, [Leiden University](https://www.universiteitleiden.nl/en/science/astronomy), Netherlands, 2000-2005
 
-Here is a [list of my colleagues and collaborators](colleagues).
+## Other Info
+- Here is a [list of my colleagues and collaborators](colleagues).
+- ORCID iD: [0000-0002-1708-4656](https://orcid.org/0000-0002-1708-4656)
+- Ciência ID: [601F-21C5-E180](https://www.cienciavitae.pt/portal/601F-21C5-E180)
 
-Note: my homepage is slowly migrating from [https://lacerdapedro.wordpress.com](https://lacerdapedro.wordpress.com) to here.
 
-Note 2: Our house in Portugal is for sale. [Check the photos and other info here](house-for-sale).
+Note: Our house in Portugal is for sale. [Check the photos and other info here](house-for-sale).

@@ -194,8 +194,8 @@ Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie.
 <img src="figs/2023/08/buiten-00002.JPG" width="500">
 <img src="figs/2023/08/buiten-00003.JPG" width="500">
 <img src="figs/2023/08/buiten-00004.JPG" width="500">
-<img src="figs/2023/08/buiten-00039.JPG" width="500">
-<img src="figs/2023/08/buiten-00040.JPG" width="500">
+<img src="figs/2023/08/huis-azival-00039.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00040.jpeg" width="500">
 
 ### Indoors/Binnen
 <img src="figs/2023/08/huis-azival-00015.jpeg" width="500">

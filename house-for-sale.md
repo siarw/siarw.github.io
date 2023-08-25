@@ -37,7 +37,7 @@ The energy label is A - the certificate dates from 2022.
 
 A veranda wraps around the back and side of the house, where you can enjoy a cup of coffee in the morning and listen to the birds. Everything around you is green! You don't hear any traffic; a car passes by maybe three times a day. At night it is dead quiet, you won't hear dogs barking, just the crickets, frogs and owls.
 
-Next to the house is an open shed with shelving units.
+Next to the house is an open shed (3.0 x 3.3 m) with shelving units.
 
 The garden is about 750 m2 and has several olive trees (you can harvest the olives and take them to the press and then enjoy your own olive oil!), an apple tree, lemon tree, fig tree, strawberry trees (medronheiros) and grape vines. We made our own small vegetable garden, where we grew tomatoes, courgettes, peppers, various cabbages, broccoli, lettuce and cucumbers. 
 
@@ -107,7 +107,7 @@ Het energielabel is A, het certificaat dateert uit 2022.
 
 Aan de achterkant en zijkant van het huis loopt een veranda, waar je 's ochtends van een kopje koffie kunt genieten en naar de vogels kunt luisteren. Alles om je heen is groen! Je hoort geen verkeer, er komt misschien drie keer per dag een auto voorbij. 's Nachts is het doodstil, je hoort geen geblaf van honden, alleen de krekels, kikkers en uiltjes. 
 
-Naast het huis is een open schuur met stellingkasten. 
+Naast het huis is een open schuur (3,0x3,3 m) met stellingkasten. 
 
 De tuin is ongeveer 700 m2 en heeft diverse olijfbomen (je kunt de olijven oogsten en naar de pers brengen en dan kun je van je eigen olie genieten!), een appelboom, citroenboom, vijgenboom, aardbeibomen (medronheiros) en druivenranken. Wij hebben zelf een klein moestuintje gemaakt, waar we tomaten, courgettes, paprika's, diverse kolen, broccoli, sla en komkommers hebben gekweekt. 
 

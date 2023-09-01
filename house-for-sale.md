@@ -37,9 +37,9 @@ The energy label is A - the certificate dates from 2022.
 
 A veranda wraps around the back and side of the house, where you can enjoy a cup of coffee in the morning and listen to the birds. Everything around you is green! You don't hear any traffic; a car passes by maybe three times a day. At night it is dead quiet, you won't hear dogs barking, just the crickets, frogs and owls.
 
-Next to the house is an open shed (3.0 x 3.3 m) with shelving units.
+Next to the house is an open shed (3.0 x 3.3 m) with shelving units. The shed could be made into a closed area if desired.
 
-The garden is about 750 m2 and has several olive trees (you can harvest the olives and take them to the press and then enjoy your own olive oil!), an apple tree, lemon tree, fig tree, strawberry trees (medronheiros) and grape vines. We made our own small vegetable garden, where we grew tomatoes, courgettes, peppers, various cabbages, broccoli, lettuce and cucumbers. 
+The plot is about 750 m2 (see map below) and has several olive trees (you can harvest the olives and take them to the press and then enjoy your own olive oil!), an apple tree, lemon tree, fig tree, strawberry trees (medronheiros) and grape vines. We made our own small vegetable garden, where we grew tomatoes, courgettes, peppers, various cabbages, broccoli, lettuce and cucumbers. 
 
 The village has no café or shops. Two or three times a week the baker drives by, on Tuesdays a fish truck and on Wednesday afternoons a mobile mini market with all sorts of supplies. The sweet and helpful Portuguese villagers regularly leave bags of fruit and vegetables on your doorstep and constantly invite you for a glass of wine (which they make themselves!). A two-minute walk away is a holiday villa with pool owned by a Dutch couple, part of which is rented out to mainly Dutch tourists. Handy for when you don't want/can't have guests in your own house.
 
@@ -107,9 +107,9 @@ Het energielabel is A, het certificaat dateert uit 2022.
 
 Aan de achterkant en zijkant van het huis loopt een veranda, waar je 's ochtends van een kopje koffie kunt genieten en naar de vogels kunt luisteren. Alles om je heen is groen! Je hoort geen verkeer, er komt misschien drie keer per dag een auto voorbij. 's Nachts is het doodstil, je hoort geen geblaf van honden, alleen de krekels, kikkers en uiltjes. 
 
-Naast het huis is een open schuur (3,0x3,3 m) met stellingkasten. 
+Naast het huis is een open schuur (3,0 x 3,3 m) met stellingkasten. Deze kan eventueel dicht gemaakt worden.
 
-De tuin is ongeveer 700 m2 en heeft diverse olijfbomen (je kunt de olijven oogsten en naar de pers brengen en dan kun je van je eigen olie genieten!), een appelboom, citroenboom, vijgenboom, aardbeibomen (medronheiros) en druivenranken. Wij hebben zelf een klein moestuintje gemaakt, waar we tomaten, courgettes, paprika's, diverse kolen, broccoli, sla en komkommers hebben gekweekt. 
+Het terrein is ongeveer 750 m2 (zie de kaart hieronder) en heeft diverse olijfbomen (je kunt de olijven oogsten en naar de pers brengen en dan kun je van je eigen olie genieten!), een appelboom, citroenboom, vijgenboom, aardbeibomen (medronheiros) en druivenranken. Wij hebben zelf een klein moestuintje gemaakt, waar we tomaten, courgettes, paprika's, diverse kolen, broccoli, sla en komkommers hebben gekweekt. 
 
 Het dorpje heeft geen café of winkeltjes. Twee of drie keer per week komt de bakker langs, op dinsdag een viskar en op woensdagmiddag een SRV-wagen met van alles en nog wat. De lieve en behulpzame Portugese dorpsbewoners leggen regelmatig zakken met groente en fruit voor de deur en nodigen je voortdurend uit voor een glaasje wijn (die ze zelf maken!). Op twee minuten lopen ligt een vakantievilla met zwembad van een Nederlands stel, waarvan een deel wordt verhuurd aan voornamelijk Nederlandse toeristen. Handig voor als je geen gasten in je eigen huis wilt/kunt hebben. 
 
@@ -224,4 +224,5 @@ Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie.
 ### Floorplan Plattegrond
 
 <img src="figs/2023/08/plattegrond.jpg">
+<img src="figs/2023/09/area.jpg">
 

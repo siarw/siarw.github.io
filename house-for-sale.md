@@ -58,7 +58,7 @@ Because Pedro will start working in the Netherlands from 1 January, so we will b
 
 #### Is there water on the property?
 
-There is no well or electricity on the property, but there are invisible streams in the village, from which several residents tap to irrigate their pieces of land.
+There is no well or water stream on the property, but there are underground streams in the village, from which several residents tap to irrigate their pieces of land.
 We collect rainwater through a gutter on the shed - the water ends up in a barrel and with it we water the garden.
 
 
@@ -129,7 +129,7 @@ Omdat Pedro vanaf 1 januari in Nederland gaat werken en we dus weer helemaal in 
 
 #### Is er water op het terrein?
 
-Er is geen put of stroom op het terrein, maar in het dorp zijn er wel onzichtbare stroompjes, waar diverse bewoners van tappen om hun stukjes land te irrigeren.
+Er is geen put of stroompje op het terrein, maar in het dorp zijn er wel onzichtbare stroompjes, waar diverse bewoners van tappen om hun stukjes land te irrigeren.
 Wij vangen regenwater op via een goot op het schuurtje - het water belandt in een vat en daarmee bewateren wij de tuin.
 
 

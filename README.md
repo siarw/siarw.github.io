@@ -28,4 +28,4 @@ Since 2022, I am a member of the Institute of Astrophysics in Portugal, and work
 - Ciência ID: [601F-21C5-E180](https://www.cienciavitae.pt/portal/601F-21C5-E180)
 
 
-Note: Our house in Portugal is for sale. [Check the photos and other info here](house-for-sale).
+<!-- Note: Our house in Portugal is for sale. [Check the photos and other info here](house-for-sale). -->

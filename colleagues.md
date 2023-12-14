@@ -9,7 +9,7 @@ Status: hidden
 Here is a list of people I work or have worked with in the past.
 
 -   [Benoit Carry](https://benoit.carry.free.fr/) - (joint [publications](https://goo.gl/M2pRm))
--   [Marilina Cesario](https://pure.qub.ac.uk/portal/en/persons/marilina-cesario(82fd19a5-7adb-44f9-b4fd-94337114ef2a).html) - (joint [publications](https://imc.leeds.ac.uk/dbsql02/AQueryServlet?*id=30&*formId=30&*context=IMC&chosenPaperId=24381&sessionId=8086&conference=2018&term=&number=&*servletURI=https://imc.leeds.ac.uk/dbsql02/AQueryServlet))
+-   [Marilina Cesario](https://pure.qub.ac.uk/portal/en/persons/marilina-cesario(82fd19a5-7adb-44f9-b4fd-94337114ef2a).html) - (joint [publications](https://www.imc.leeds.ac.uk/imcarchive/2018/sessions/150/))
 -   [Carsten Dominik](https://staff.fnwi.uva.nl/c.dominik/) - (joint [publications](https://tinyurl.com/ps8z7m))
 -   [Christophe Dumas](https://www.linkedin.com/in/dumaschristophe) - (joint [publications](https://tinyurl.com/3a3tc7au))
 -   [Alan Fitzsimmons](https://star.pst.qub.ac.uk/~af/) - (joint [publications](https://tinyurl.com/3cavn8rr))

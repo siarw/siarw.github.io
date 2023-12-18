@@ -1,4 +1,4 @@
-# theme: jekyll-theme-tactile
+theme: jekyll-theme-minima
 title: Pedro Lacerda's homepage
 description: August 2023
 
@@ -6,7 +6,7 @@ show_downloads: false
 #["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
 
-remote_theme: dark-poole
+# remote_theme: dark-poole
 # - pages-themes/primer@v0.2.0
 # - pages-themes/tactile@v0.2.0
 # - pages-themes/hacker@v0.2.0

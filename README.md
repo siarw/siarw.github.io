@@ -26,6 +26,7 @@ Since 2022, I am a member of the Institute of Astrophysics in Portugal, and work
 - Here is a [list of my colleagues and collaborators](colleagues).
 - ORCID iD: [0000-0002-1708-4656](https://orcid.org/0000-0002-1708-4656)
 - Ciência ID: [601F-21C5-E180](https://www.cienciavitae.pt/portal/601F-21C5-E180)
+- [Homepage](http://staff.uc.pt/uc47883) at Coimbra University
 
 
 <!-- Note: Our house in Portugal is for sale. [Check the photos and other info here](house-for-sale). -->

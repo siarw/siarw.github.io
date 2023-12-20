@@ -1,7 +1,3 @@
----
-Title: Homepage
-Author: Pedro Lacerda
----
 
 <img style="padding: 10px;" src="figs/Pedro.jpeg" width=400 align="right"/>
 For the past twenty years, I have been employed in academia in five different countries, doing [research](research) in astronomy and astrophysics, and teaching mathematics, physics and astronomy.

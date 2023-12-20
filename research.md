@@ -4,8 +4,6 @@ Author: Pedro Lacerda
 Slug: research
 ---
 
-# Research 
-
 My research deals with physical properties of small bodies of the solar system, mainly Kuiper belt objects (KBOs) and comets.  I also collaborate with medievalists to link medieval records of comet sightings to current theories of the evolution of the solar system.
 
 -   [Binaries](binaries)

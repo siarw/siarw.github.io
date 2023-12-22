@@ -29,9 +29,9 @@ I have also worked on a paper about the [main-belt comet 133P/Elst-Pizarro](the-
 
 ## Relevant publications
 
--   [Lacerda (2013), MNRAS 428, 1818](http://labs.adsabs.harvard.edu/ui/abs/2013MNRAS.428.1818L)
--   [Lacerda & Jewitt (2012), ApJL 760, 2](http://labs.adsabs.harvard.edu/ui/abs/2012ApJ...760L...2L)
--   [Hsieh, Ishiguro, Lacerda & Jewitt (2011), AJ 142, 29](http://labs.adsabs.harvard.edu/ui/abs/2011AJ....142...29H)
--   [Hsieh, Jewitt, Lacerda et al. (2010), MNRAS 403, 363](http://labs.adsabs.harvard.edu/ui/abs/2010MNRAS.403..363H)
+- [Lacerda (2013), MNRAS 428, 1818](http://labs.adsabs.harvard.edu/ui/abs/2013MNRAS.428.1818L)
+- [Lacerda & Jewitt (2012), ApJL 760, 2](http://labs.adsabs.harvard.edu/ui/abs/2012ApJ...760L...2L)
+- [Hsieh, Ishiguro, Lacerda & Jewitt (2011), AJ 142, 29](http://labs.adsabs.harvard.edu/ui/abs/2011AJ....142...29H)
+- [Hsieh, Jewitt, Lacerda et al. (2010), MNRAS 403, 363](http://labs.adsabs.harvard.edu/ui/abs/2010MNRAS.403..363H)
 
 ¹ Astronomical Unit, the distance between the Sun and the Earth, convenient to measure distances in the solar system.

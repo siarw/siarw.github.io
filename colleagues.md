@@ -1,6 +1,7 @@
 ---
 Title: Colleagues
 Date: 2013-03-15 18:13
+Updated: 2023-12-22 13:22
 Author: Pedro Lacerda
 Slug: colleagues
 Status: hidden
@@ -24,3 +25,6 @@ Here is a list of people I work or have worked with in the past.
 -   [Scott Sheppard](https://sites.google.com/carnegiescience.edu/sheppard/home) - (joint [publications](https://tinyurl.com/pjeuyj))
 -   [Rachel Stevenson](https://rachelstevensondotcom.wordpress.com) - (joint [publications](https://tinyurl.com/pbpeyx))
 -   [Bin Yang](https://astronomia.udp.cl/personas/bin-yang-starting-march-2022/) - (joint [publications](https://tinyurl.com/mr4eu4b4))
+
+
+Pedro Lacerda, December 2023

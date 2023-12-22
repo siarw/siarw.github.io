@@ -14,7 +14,7 @@ Here, I report on what the transit lightcurve of a binary exoplanet would look l
 
 ## Corot-9b
 
-First let's look at a simulation of a single exoplanet. I will use [Corot-9b](https://exoplanets.org/cgi-bin/planet.py/CoRoT-9_b) for this exercise. Corot-9b has a \~95 day orbit around G3 V star of mass 1 Msun. I assumed the star has a radius 1 Rsun.
+First let's look at a simulation of a single exoplanet. I will use [Corot-9b](https://exoplanet.eu/catalog/corot_9_b--557/) for this exercise. Corot-9b has a \~95 day orbit around G3 V star of mass 1 Msun. I assumed the star has a radius 1 Rsun.
 
 ![Corot-9b](figs/2013/03/c9b.gif)
 

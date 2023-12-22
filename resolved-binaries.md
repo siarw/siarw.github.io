@@ -19,7 +19,7 @@ The main conclusions on resolved KBO binaries from the plots below are:
 -   However, binaries prefer to have similar size/mass components. Roughly 80% of known KBO binaries have mass ratios less than 10. That means that the primary is mostly up to twice the size of the secondary.
 -   KBO binaries tend to be very compact. The smaller the separation, the larger the number of binaries.
 
-Below I show a number of plots that use data from [Will Grundy's Binary TNOs page](http://www2.lowell.edu/~grundy/tnbs/).
+Below I show a number of plots that use data from [Will Grundy's Binary TNOs page](http://www2.lowell.edu/users/grundy/tnbs/index.html).
 
 ## Number of binaries per dynamical class in the Kuiper belt
 

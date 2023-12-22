@@ -30,5 +30,5 @@ Dr Lacerda, commented: "It is fantastic to be able to use data which is about on
 
 "Any strong indication that a 'Planet Nine' is required to fit the comet sightings recorded in the Middle Ages will be a unique result and will certainly have a remarkable impact on our understanding of the solar system."
 
-![Pedro and Marilina again](https://lacerdapedro.files.wordpress.com/2018/05/parkway-0579.jpg){.wp-image-1372}
+![Pedro and Marilina again](https://lacerdapedro.files.wordpress.com/2018/05/parkway-0579.jpg)
 

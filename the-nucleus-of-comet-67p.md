@@ -28,4 +28,8 @@ On 12 November 2014, the Philae probe on board Rosetta will land on comet 67P. H
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/epp02ydrMbk?si=PM6qtCCETSGgP1CM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- Pedro Lacerda, 2014-07-16
+Pedro Lacerda, 2014-07-16
+
+[Back to Comets](comets)
+
+[Back to Research](research)

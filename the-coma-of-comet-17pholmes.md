@@ -1,19 +1,22 @@
+---
 Title: The coma of comet 17P/Holmes
 Date: 2013-03-27 16:27
 Author: lacerdapedro
 Slug: the-coma-of-comet-17pholmes
 Status: published
+---
+
+# The coma of comet 17P/Holmes
 
 ![2012-10-26-WordCloud](http://lacerdapedro.files.wordpress.com/2013/03/2012-10-26-wordcloud.png?w=400)
 
 Comet 17P/Holmes suffered a massive outburst in October 2007. Its total brightness increased from about 17th to 2nd magnitude (that is a factor of 1 million increase) over a period of only two days. During that interval 17P released about 1-10% of its mass into space in the form of dust. Several theories have been proposed to explain the event but the exact cause for the outburst remains unknown. 17P had suffered a similar outburst in 1892, which led to its discovery by Holmes. These unusual and violent explosions have rendered this otherwise unremarkable Jupiter family comet an interesting target of study, because it may provide clues to the activity in other comets.
 
-On 29 October 2007, the nucleus of comet 17P passed within \<1 arc second of a background star. We used observations taken at the Univ. of Hawaii 2.2m telescope located atop Mauna Kea to measure the brightness of the star as it crossed the coma of 17P in an attempt to estimate the optical depth and albedo of the dust.
+On 29 October 2007, the nucleus of comet 17P passed within < 1 arcsec of a background star. We used observations taken at the University of Hawaii 2.2m telescope located atop Mauna Kea to measure the brightness of the star as it crossed the coma of 17P in an attempt to estimate the optical depth and albedo of the dust.
 
 Here is a video of the comet moving past the star. The images are centered on the comet nucleus and the fuzzy orange stuff around it is the dust coma.
 
-![](http://www.youtube.com/watch?v=1Ul-9hmHYSY&w=560&h=315)
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ul-9hmHYSY?si=fph8tPWvdxm_cQJ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Here is a plot of the brightness of the star plotted against distance from the nucleus. Negative distance means approaching.
 
@@ -28,3 +31,7 @@ The other thing we were able to measure was the coma dust albedo (or reflectivit
 Comets carry possibly some of the oldest (least processed) material in the solar system. These clues we got about comet dust may be useful in the future to help us understand the material present when the planets were forming.
 
  The results were published in The Astrophysical Journal Letters. You can find an open-source copy of the paper [here](http://arxiv.org/abs/1210.2764).
+
+Pedro Lacerda
+
+2013-03-27

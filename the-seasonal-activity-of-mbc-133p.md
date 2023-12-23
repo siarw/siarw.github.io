@@ -26,9 +26,9 @@ The first and best studied MBC is 133P/Elst-Pizarro. 133P is known to be active 
 
 The photometric range (∆m) of an object is minimum at solstice as the spin axis is most aligned with the Sun direction, and maximum at equinox when the object is observed equator-on. Figure 1 shows the case when solstice happens at perihelion – this is the scenario predicted by the seasonal hypothesis. Lightcurves of 133P taken at perihelion (Jul 2007) and `~70` deg past it (Sep 2002) are shown in Figure 2. Each dataset was phased self-consistently to spin period `P=3.947(1)` hr but the two epochs are just aligned by eye as the period uncertainty propagated for 5 years becomes too large. In Figure 2a the alignment is such that ∆m does not seem to have changed much from 2002 to 2007. In Figure 2b, ∆m seems to have decreased from `∆m_2002 ~ 0.36` mag to `∆m_2007 ~ 0.25` mag. The ambiguity is important because it has implications for the pole orientation of 133P and for testing the seasonal hypothesis.
 
-| ![](http://lacerdapedro.files.wordpress.com/2013/04/eaef3.png?w=321) |
-| :------------------------------------------------------------------: |
-|                               Figure 3                               |
+| ![](figs/2013/04/eaef3.png?w=321) |
+| :-------------------------------: |
+|             Figure 3              |
 
 ### Lightcurve models of 133P
 

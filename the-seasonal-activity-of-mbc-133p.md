@@ -8,9 +8,9 @@ Status: published
 
 ### Main Belt Comets
 
-| ![](figs/2013/04/2f318.png) |
-| :-------------------------: |
-|          Figure 1           |
+| ![](figs/2013/04/2f318.png?w=400) |
+| :-------------------------------: |
+|             Figure 1              |
 
 Main belt comets (MBCs) are a recently identified class of objects that have asteroid orbits but, like comets, exhibit dust comae and tails driven by ice sublimation. MBCs are significant because they tell us the asteroid belt holds not only rocky asteroids but also icy objects which may have delivered water to Earth after it formed. For the ice to have survived so close to the Sun for the age of the solar system it must be thermally insulated by a dusty mantle. The leading idea to explain the observed activity is that occasional impacts by `~ 1` m-sized objects excavate the mantle and expose the ice. When the exposed ice patch heats up by insolation it begins to sublimate and to drive the ejection of dust into a coma and tail. The activity would then be seasonal, occurring during summertime for the hemisphere containing exposed ice.
 

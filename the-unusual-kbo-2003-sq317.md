@@ -32,9 +32,9 @@ The scientific paper describing this discovery will appear soon in the MNRAS jou
 
 Other related publications:
 
-- **Lacerda 2011.** [A Change in the Light Curve of Kuiper Belt Contact Binary (139775) 2001 QG298.](https://ui.adsabs.harvard.edu/#abs/2011AJ....142...90L/abstract5) The Astronomical Journal, 142, 90. ([ADS link](http://labs.adsabs.harvard.edu/adsabs/abs/2011AJ....142...90L/))]{style="line-height:1.5;"}
+- **Lacerda 2011.** [A Change in the Light Curve of Kuiper Belt Contact Binary (139775) 2001 QG298.](https://ui.adsabs.harvard.edu/#abs/2011AJ....142...90L/abstract5) The Astronomical Journal, 142, 90. ([ADS link](http://labs.adsabs.harvard.edu/adsabs/abs/2011AJ....142...90L/))
 - **Lacerda 2009.**[ [Time-Resolved Near-Infrared Photometry of Extreme Kuiper Belt Object Haumea.](http://goo.gl/gUzzs) The Astronomical Journal 137, 3404. ([ADS link](http://labs.adsabs.harvard.edu/adsabs/abs/2009AJ....137.3404L/))]{style="line-height:1.5;"}
-- **Lacerda**[, Jewitt, & Peixinho ]{style="line-height:1.5;"}**2008.**[ [High Precision Photometry of Extreme KBO 2003 EL61.](http://goo.gl/ecG1U)The Astronomical Journal 135, 1749. ([ADS link](http://labs.adsabs.harvard.edu/adsabs/abs/2008AJ....135.1749L/))]{style="line-height:1.5;"}
-- **Lacerda** & Jewitt **2007**. [Densities of Solar System Objects from Their Rotational Light Curves.](https://ui.adsabs.harvard.edu/#abs/2007AJ....133.1393L/abstract) The Astronomical Journal, 133, 1393. ([ADS link](http://labs.adsabs.harvard.edu/adsabs/abs/2007AJ....133.1393L/))]{style="line-height:1.5;"}
+- **Lacerda**[, Jewitt, & Peixinho] **2008.**[ [High Precision Photometry of Extreme KBO 2003 EL61.](http://goo.gl/ecG1U)The Astronomical Journal 135, 1749. ([ADS link](http://labs.adsabs.harvard.edu/adsabs/abs/2008AJ....135.1749L/))]{style="line-height:1.5;"}
+- **Lacerda** & Jewitt **2007**. [Densities of Solar System Objects from Their Rotational Light Curves.](https://ui.adsabs.harvard.edu/#abs/2007AJ....133.1393L/abstract) The Astronomical Journal, 133, 1393. ([ADS link](http://labs.adsabs.harvard.edu/adsabs/abs/2007AJ....133.1393L/))
 
 This work was partly funded by the [Royal Society](https://royalsociety.org) through a [Newton Fellowship](http://newtonfellowships.org).

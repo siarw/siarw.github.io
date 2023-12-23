@@ -1,7 +1,7 @@
 ---
 Title: Comet LINEAR-Grauer as a mini-29P/SW1
 Date: 2013-03-30 21:32
-Author: lacerdapedro
+Author: Pedro Lacerda
 Slug: comet-linear-grauer-as-a-mini-29psw1
 Status: published
 ---
@@ -12,13 +12,17 @@ Comet P/2010 TO20 LINEAR-Grauer was discovered in October 2010 by the LINEAR s
 
 This image shows comet LINEAR-Grauer as I saw it at the ESO NTT telescope in Chile on 2011/10/29. The anti-solar (yellow arrow) and anti-orbital (orange arrow) directions are indicated.
 
-![Comet P/2010 TO20 LINEAR-Grauer.](http://lacerdapedro.files.wordpress.com/2013/03/2010-to10-linear-grauer-filtered-insets.png?w=540) Comet P/2010 TO20 LINEAR-Grauer.
+| ![Comet P/2010 TO20 LINEAR-Grauer.](figs/2013/03/2010-to10-linear-grauer-filtered-insets.png?w=540) |
+| :-------------------------------------------------------------------------------------------------: |
+|                                  Comet P/2010 TO20 LINEAR-Grauer.                                   |
 
 ### Is it a Trojan?
 
 Jupiter Trojans are asteroids that lead and trail Jupiter along its orbit by about 60 degrees. This is a plan view of the solar system showing the positions of Trojans Hektor and Patroclus on 2012/10/26.
 
-![](figs/2013/03/2012-10-04-trojan-orbit-examples.gif?w=400) Examples of the orbits of two Trojans, Hektor and Patroclus.
+| ![](figs/2013/03/2012-10-04-trojan-orbit-examples.gif?w=400) |
+| :----------------------------------------------------------: |
+| Examples of the orbits of two Trojans, Hektor and Patroclus. |
 
 If Trojans formed at their current location or even further away from the Sun then they should contain water ice. If heated, that ice would sublimate and produce cometary activity. However, no active/cometary Trojan has ever been seen. Water ice has also never been detected (using spectroscopy) on Trojan surfaces. The only indirect evidence that Trojans contain ice comes from density estimates for three of them. [Patroclus](http://arxiv.org/abs/astro-ph/0602033), [29314 and 17365](http://arxiv.org/abs/0706.0233) all have densities less or equal to 1 gram per cubic centimeter indicating an icy interior.
 
@@ -26,13 +30,17 @@ If Trojans formed at their current location or even further away from the Sun th
 
 It turns out LINEAR-Grauer is probably not a Trojan. Numerical simulations of its orbital evolution show that this object probably originated in the outer solar system and has recently arrived in the Jupiter region. The figures below show the increasing mean distance to the sun and perihelion distance as we look further into the past as given by the simulations. Objects in transit from the outer to the inner solar system are called Centaurs. They originate in the Kuiper belt beyond Neptune and the ones that survive all the way in without colliding with a planet or being scattered away become Jupiter family comets.
 
-![2012-10-04 LINEAR-Grauer Dynamical Evolution](http://lacerdapedro.files.wordpress.com/2013/03/2012-10-04-linear-grauer-dynamical-evolution.png?w=400) Past orbital evolution of comet LINEAR-Grauer, as simulated in a computer.
+| ![2012-10-04 LINEAR-Grauer Dynamical Evolution](figs/2013/03/2012-10-04-linear-grauer-dynamical-evolution.png) |
+| :------------------------------------------------------------------------------------------------------------: |
+|                   Past orbital evolution of comet LINEAR-Grauer, as simulated in a computer.                   |
 
 ### A mini-29P/Schwassmann-Wachmann 1
 
 Comet LINEAR-Grauer has a nearly circular, low inclination orbit similar to that of Centaur/comet 29P/Schwassmann-Wachmann 1. The two orbits, plus those of Earth, Mars, Jupiter and Saturn are show below.
 
-![](figs/2013/03/3dorbitlg-sw1.png?w=400) Comparison of the orbits of comets LINEAR-Grauer and 29P/SW1.
+|           ![](figs/2013/03/3dorbitlg-sw1.png?w=400)           |
+| :-----------------------------------------------------------: |
+| Comparison of the orbits of comets LINEAR-Grauer and 29P/SW1. |
 
 These objects are similar in more ways than one. They both seem to have recently arrived from the outer solar system, they have similar surface colours, and they are both active (probably due to ice sublimation) and lose mass at a similar rate per unit area. The main difference is that LINEAR-Grauer is ten times smaller in size.
 

@@ -16,7 +16,9 @@ Here, I report on what the transit lightcurve of a binary exoplanet would look l
 
 First let's look at a simulation of a single exoplanet. I will use [Corot-9b](https://exoplanet.eu/catalog/corot_9_b--557/) for this exercise. Corot-9b has a \~95 day orbit around G3 V star of mass 1 Msun. I assumed the star has a radius 1 Rsun.
 
-![Corot-9b](figs/2013/03/c9b.gif)
+| ![Corot-9b](figs/2013/03/c9b.gif) |
+| :-------------------------------: |
+|      Simulation of Corot-9b.      |
 
 So, the planet above is modelled on Corot-9b which has the following physical parameters:
 
@@ -29,7 +31,9 @@ So, the planet above is modelled on Corot-9b which has the following physical pa
 
 Assuming no stellar limb-darkening, the transit lightcurve of this synthetic Corot 9b looks as follows:
 
-![C9b](figs/2013/03/c9b.jpeg)
+|       ![C9b](figs/2013/03/c9b.jpeg)        |
+| :----------------------------------------: |
+| Simulation of Corot-9b transit lightgurve. |
 
 ## Exobinary
 
@@ -45,38 +49,45 @@ where M, R and Rho are the values above for Corot-9b. I use a binary separation 
 
 I computed four consecutive orbits of the exobinary using the N-body code mercury6 and extracted the transits. Here is an animation of those 4 transits.
 
-![Dynamic](figs/2013/03/dynamic.gif)
+| ![Dynamic](figs/2013/03/dynamic.gif) |
+| :----------------------------------: |
+|       Animation of exobinary.        |
 
 The lightcurves of the 4 consecutive transits are shown below. The red, dotted line shows the transit lightcurve of Corot 9b, for comparison, and the solid black line is the lightcurve of the exobinary.
 
-![LightcurvesC9bExobinary](figs/2013/03/lightcurvesc9bexobinary.jpeg)
+| ![LightcurvesC9bExobinary](figs/2013/03/lightcurvesc9bexobinary.jpeg) |
+| :-------------------------------------------------------------------: |
+|                       Lightcurves of exobinary.                       |
 
 ## Different sized components
 
 Here is a [simulation](https://www.youtube.com/watch?v=28PWhf1XXLw) of 36 consecutive transits from a system where the exobinary components have a mass ratio of 8 and are separated by 0.1 mutual Hill radii. Watch the movie at [this link](https://www.youtube.com/watch?v=28PWhf1XXLw).
-<!-- \[youtube http://www.youtube.com/watch?v=28PWhf1XXLw\] -->
 
 The 36 transit lightcurves look like this:
 
-![LightcurvesC9bExobinary36](figs/2013/03/lightcurvesc9bexobinary36.png)
+| ![LightcurvesC9bExobinary36](figs/2013/03/lightcurvesc9bexobinary36.png) |
+| :----------------------------------------------------------------------: |
+|                   36 consecutive transit lightcurves.                    |
 
 ## Exobinary detection using the secondary transit and mutual shadowing
 
 Another way to detect exobinaries is to look for mutual eclipses. The secondary transit and exobinary mutual eclipses will be significantly easier to detect in the far-infrared, e.g. using ALMA, where the stellar flux becomes relatively less important.
 
-![Ratio of exobinary and host star flux as a function of wavelength. Toward the far-infrared the relative brightness of the star diminishes considerably.](figs/2013/03/exobinaryfluxratio.png)
+|                                                        ![](figs/2013/03/exobinaryfluxratio.png)                                                         |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Ratio of exobinary and host star flux as a function of wavelength. Toward the far-infrared the relative brightness of the star diminishes considerably. |
 
 The observed abundance of these systems can be used to test planet formation models. If we detect such systems in the future, the mutual binary shadowing will reveal the cooling and heating of exoplanet surfaces and atmospheres. An interesting prospect is that eclipsing exobinaries can be detected even if the system does not transit the host star. This significantly increases the number of exoplanet systems that can be uncovered from our vantage point.
 
 A model of an exobinary mutual-eclipses lightcurve is shown below. A dip occurs every time one of the binary components eclipses or shadows the other. The large dip in brightness in the middle occurs when the exobinary passes behind the host star. The overall curvature of the lightcurve is due to the illumination phase, the same effect Galileo observed for Venus more than 300 years ago.
 
-![Simulations of exobinary mutual events and secondary eclipse for the system shown above. The flux is relative to the secondary eclipse depth and two regions are blown up to show detail (Lacerda, in prep.)](figs/2013/03/exobinaryeclipses.png)
+|                                                                                   ![](figs/2013/03/exobinaryeclipses.png)                                                                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Simulations of exobinary mutual events and secondary eclipse for the system shown above. The flux is relative to the secondary eclipse depth and two regions are blown up to show detail (Lacerda, in prep.) |
 
 Here is a [simulation](https://youtu.be/28PWhf1XXLw) of an exobinary. The [movie](https://youtu.be/28PWhf1XXLw) follows the eclipsing binary system for half an orbit as it passes behind the star. The star illuminates the exobinary but is shown as a black, invisible sphere (this is clear halfway through the movie when the binary passes behind the star).
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/28PWhf1XXLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-
-<!-- [youtube](https://youtu.be/28PWhf1XXLw) -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28PWhf1XXLw?si=3jjpo0lLteXh3NRv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Follow [this link](http://api.soundcloud.com/tracks/41578691) for a [sonification](http://en.wikipedia.org/wiki/Sonification) attempt for the data used to generate the exobinary video above.
 

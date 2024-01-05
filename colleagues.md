@@ -15,7 +15,7 @@ Here is a list of people I work or have worked with in the past.
 -   [Christophe Dumas](https://www.linkedin.com/in/dumaschristophe) - (joint [publications](https://tinyurl.com/3a3tc7au))
 -   [Alan Fitzsimmons](https://star.pst.qub.ac.uk/~af/) - (joint [publications](https://tinyurl.com/3cavn8rr))
 -   [Matt Holman](https://www.cfa.harvard.edu/~mholman/) - (joint [publications](https://tinyurl.com/4c3wd2kp))
--   [Henry Hsieh](https://www.psi.edu/about/staffpage/hhsieh) - (joint [publications](https://tinyurl.com/y8vlg23))
+-   [Henry Hsieh](https://orcid.org/0000-0001-7225-9271) - (joint [publications](https://tinyurl.com/y8vlg23))
 -   [David Jewitt](http://www2.ess.ucla.edu/~jewitt/David_Jewitt.html) - (joint [publications](https://tinyurl.com/q3cd5h))
 -   [Anders Johansen](https://portal.research.lu.se/en/persons/anders-johansen) - (joint [publications](https://tinyurl.com/yevg3d4))
 -   [Jane Luu](https://www.kavliprize.org/bio/jane-luu) - (joint [publications](https://tinyurl.com/qwupyq))

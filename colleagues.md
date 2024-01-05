@@ -20,7 +20,7 @@ Here is a list of people I work or have worked with in the past.
 -   [Anders Johansen](https://portal.research.lu.se/en/persons/anders-johansen) - (joint [publications](https://tinyurl.com/yevg3d4))
 -   [Jane Luu](https://www.kavliprize.org/bio/jane-luu) - (joint [publications](https://tinyurl.com/qwupyq))
 -   [Rosita Kokotanekova](https://kokotanekova.wordpress.com) - (joint [publications](https://tinyurl.com/36uy9ewf))
--   [Nuno Peixinho](https://www.mat.uc.pt/~peixinho/) - (joint [publications](https://tinyurl.com/qppe3f))
+-   [Nuno Peixinho](http://iastro.pt/ia/newStaffDetails.html?ID=286) - (joint [publications](https://tinyurl.com/qppe3f))
 -   [Colin Snodgrass](https://www.roe.ac.uk/~csn/) - (joint [publications](https://tinyurl.com/y9b8939))
 -   [Scott Sheppard](https://sites.google.com/carnegiescience.edu/sheppard/home) - (joint [publications](https://tinyurl.com/pjeuyj))
 -   [Rachel Stevenson](https://rachelstevensondotcom.wordpress.com) - (joint [publications](https://tinyurl.com/pbpeyx))

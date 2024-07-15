@@ -2,7 +2,7 @@
 <img style="padding: 10px;" src="figs/Pedro.jpeg" width=400 align="right"/>
 For the past twenty years, I have been employed in academia in five different countries, doing [research](research) in astronomy and astrophysics, and teaching mathematics, physics and astronomy.
 
-Since 2022, I am a member of the Institute of Astrophysics in Portugal, and work with the ESA Space Solutions team at Instituto Pedro Nunes in Coimbra. I am part of the ESA Comet Interceptor science working group.
+I am a member of the [Institute of Astrophysics](http://iastro.pt/) in Portugal aince 2022, and work at [NL Space Campus](https://www.nlspacecampus.eu) in the Netherlands as scientific coordinator and with the [ESA Space Solutions](https://space.ipn.pt) team at Instituto Pedro Nunes in Coimbra. I am part of the [ESA Comet Interceptor](https://www.cometinterceptor.space) science working group.
 
 ## Education
 
@@ -11,6 +11,7 @@ Since 2022, I am a member of the Institute of Astrophysics in Portugal, and work
 
 ## Short CV
 
+- Scientific Programme Coordinator at [NL Space Campus](https://www.nlspacecampus.eu), 2024-now
 - Member of the Comet Nucleus Science Working Group for the [ESA Comet Interceptor mission](https://www.cosmos.esa.int/web/comet-interceptor/home), 2023-now
 - Member of the [Institute of Astrophysics and Space Sciences](http://www.iastro.pt/), 2022-now
 - Technology Broker at [ESA Space Solutions Portugal](https://space.ipn.pt/), 2022-now

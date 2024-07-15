@@ -11,6 +11,7 @@ I am a member of the [Institute of Astrophysics](http://iastro.pt/) in Portugal 
 
 ## Short CV
 
+- Scientific Programme Coordinator at [NL Space Campus](https://www.nlspacecampus.eu), 2024-now
 - Member of the Comet Nucleus Science Working Group for the [ESA Comet Interceptor mission](https://www.cosmos.esa.int/web/comet-interceptor/home), 2023-now
 - Member of the [Institute of Astrophysics and Space Sciences](http://www.iastro.pt/), 2022-now
 - Technology Broker at [ESA Space Solutions Portugal](https://space.ipn.pt/), 2022-now

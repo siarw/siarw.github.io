@@ -23,6 +23,7 @@ I am a member of the [Institute of Astrophysics](http://iastro.pt/) in Portugal 
 - Postdoc researcher, [Institute for Astronomy](http://www.ifa.hawaii.edu/), U. Hawaii, 2006-2008
 - Postdoc researcher, [Coimbra University](http://www.uc.pt/fctuc/dmat), Portugal, 2005-2006
 - PhD researcher, [Leiden University](https://www.universiteitleiden.nl/en/science/astronomy), Netherlands, 2000-2005
+- Full CV linked [here](assets/pdfs/cv-2024.pdf).
 
 ## Other Info
 - Here is a [list of my colleagues and collaborators](colleagues).

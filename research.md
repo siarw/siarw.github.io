@@ -18,7 +18,7 @@ My research deals with physical properties of small bodies of the solar system, 
 
 ## Publications
 
-- [Astrophysics Data System](https://tinyurl.com/y2lg6mfj)
+- [Astrophysics Data System](https://tinyurl.com/ypkandc3)
 - [Google Scholar](http://goo.gl/BSYsuH)
 
 

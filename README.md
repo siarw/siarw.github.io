@@ -9,6 +9,11 @@ I am a member of the [Institute of Astrophysics](http://iastro.pt/) in Portugal 
 - MSc in Physics, 2000, [Universidade de Lisboa](https://ciencias.ulisboa.pt/), Portugal
 - PhD in Astrophysics, 2005, [Leiden University]([url](http://www.leidenuniv.nl/)http://www.leidenuniv.nl/), The Netherlands
 
+## Recent Papers
+
+- [Secular brightness curves of 272 comets](https://ui.adsabs.harvard.edu/abs/2025arXiv250400565L/abstract), accepted for publication at A&A, Lacerda et al. 2025.
+- [How much earlier would LSST have discovered currently known long-period comets?]([url](https://ui.adsabs.harvard.edu/abs/2025Icar..42916443I/abstract)). Inno et al. 2025, Icarus 429, 116443.
+
 ## Short CV
 
 - Scientific Programme Coordinator at [NL Space Campus](https://www.nlspacecampus.eu), 2024-now
@@ -23,7 +28,7 @@ I am a member of the [Institute of Astrophysics](http://iastro.pt/) in Portugal 
 - Postdoc researcher, [Institute for Astronomy](http://www.ifa.hawaii.edu/), U. Hawaii, 2006-2008
 - Postdoc researcher, [Coimbra University](http://www.uc.pt/fctuc/dmat), Portugal, 2005-2006
 - PhD researcher, [Leiden University](https://www.universiteitleiden.nl/en/science/astronomy), Netherlands, 2000-2005
-- Full CV linked [here](assets/pdfs/cv-2024.pdf).
+- Full CV linked [here](assets/pdfs/cv-2025.pdf).
 
 ## Other Info
 - Here is a [list of my colleagues and collaborators](colleagues).

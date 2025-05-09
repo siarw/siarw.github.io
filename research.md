@@ -23,7 +23,8 @@ My research deals with physical properties of small bodies of the solar system, 
 
 
 ## News, Results and Publications
-
+- PAPER [Secular brightness curves of 272 comets](https://ui.adsabs.harvard.edu/abs/2025arXiv250400565L/abstract) (Lacerda et al. 2025, accepted for publication at A&A)
+- PAPER [How much earlier would LSST have discovered currently known long-period comets?](https://ui.adsabs.harvard.edu/abs/2025Icar..42916443I/abstract). (Inno et al. 2025, Icarus 429, 116443)
 - PAPER [Implications of the small spin changes measured for large Jupiter-family comet nuclei](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.479.4665K/abstract) ([PDF](https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.479.4665K/EPRINT_PDF))
 - VIDEO "[How medieval monks are revealing our universe's secrets](https://www.bbc.co.uk/ideas/videos/how-medieval-monks-are-revealing-our-universes-sec/p07jljv5)" in BBC Ideas
 - EXHIBITION “[Before and After Halley: Medieval Visions of Modern Science](https://www.britac.ac.uk/events/summershowcase/2018)” at the British Academy Summer Showcase 2018 ([website](https://www.britac.ac.uk/events/summershowcase/2018))

@@ -11,8 +11,8 @@ I am a member of the [Institute of Astrophysics](http://iastro.pt/) in Portugal 
 
 ## Recent Papers
 
-- [Secular brightness curves of 272 comets](https://ui.adsabs.harvard.edu/abs/2025arXiv250400565L/abstract), Lacerda et al. 2025, accepted for publication at A&A.
-- [How much earlier would LSST have discovered currently known long-period comets?]([url](https://ui.adsabs.harvard.edu/abs/2025Icar..42916443I/abstract)). Inno et al. 2025, Icarus 429, 116443.
+- [Secular brightness curves of 272 comets](https://ui.adsabs.harvard.edu/abs/2025arXiv250400565L/abstract) (Lacerda et al. 2025, accepted for publication at A&A)
+- [How much earlier would LSST have discovered currently known long-period comets?]([url](https://ui.adsabs.harvard.edu/abs/2025Icar..42916443I/abstract)). (Inno et al. 2025, Icarus 429, 116443)
 
 ## Short CV
 

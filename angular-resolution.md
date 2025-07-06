@@ -26,7 +26,7 @@ You can imagine this if you think of the headlights of a car in the distance at 
 
 
 
-The angular resolution (`theta`, in [radians](https://en.wikipedia.org/wiki/Radian)) depends on the **wavelength of light** (`lambda`; for visible light, about 5000 Å or 5e-7 m) and the **aperture** (diameter, `D`) of the detector is given by the **[Rayleigh criterion](https://en.wikipedia.org/wiki/Angular_resolution#The_Rayleigh_criterion)**, which is
+The angular resolution (`theta`, in [radians](https://en.wikipedia.org/wiki/Radian)), which depends on the **wavelength of light** (`lambda`; for visible light, about 5000 Å or 5e-7 m) and the **aperture** (diameter, `D`) of the detector, is given by the **[Rayleigh criterion](https://en.wikipedia.org/wiki/Angular_resolution#The_Rayleigh_criterion)**, which is
 
 `theta = 1.22 lambda / D`
 
@@ -52,7 +52,7 @@ For a powerful telescope, `D_telescope = 5 m` and
 <!-- \$latex \\theta=1.22\\times \\frac{5\\times 10\^{-7}}{5}=1.22\\times 10\^{-7}\\,\\text{radians}\\approx 0.03''&s=2\$ -->
 
 
-The excellent angular resolution achieved by a 5-meter telescope is further blurred by air motions in the earth’s atmosphere. Over the few minutes exposure time required to detect a Kuiper Belt object, the atmosphere degrades the image to an angular resolution of around `1 arcsec`. This is called the **seeing** in observational astronomy. At very good observing sites the seeing can be as low as a few times `0.1 arcsec`. Advanced techniques such as adaptive or active optics and luck imaging can compensate for the atmosphere’s blurring and approach the image quality promised by the diffraction limit.
+The excellent angular resolution achieved by a 5-meter telescope is further blurred by air motions in the earth’s atmosphere. Over the few minutes exposure time required to detect a Kuiper Belt object, the atmosphere degrades the image to an angular resolution of around `1 arcsec`. This is called the **seeing** in observational astronomy. At very good observing sites the seeing can be as low as a few times `0.1 arcsec`. Advanced techniques such as adaptive or active optics and lucky imaging can compensate for the atmosphere’s blurring and approach the image quality promised by the diffraction limit.
 
 
 Pedro Lacerda, May 2021

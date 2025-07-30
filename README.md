@@ -18,6 +18,7 @@ I am a member of the [Institute of Astrophysics](http://iastro.pt/) in Portugal 
 
 - Scientific Programme Coordinator at [NL Space Campus](https://www.nlspacecampus.eu), 2024-now
 - Member of the Comet Nucleus Science Working Group for the [ESA Comet Interceptor mission](https://www.cosmos.esa.int/web/comet-interceptor/home), 2023-now
+- Guest researcher at [Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy), 2025-now
 - Member of the [Institute of Astrophysics and Space Sciences](http://www.iastro.pt/), 2022-now
 - Technology Broker at [ESA Space Solutions Portugal](https://space.ipn.pt/), 2022-now
 - Founder, Researcher, Teacher and Baker at [Miolo](https://miolo.nl/), 2020-2021

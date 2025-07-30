@@ -20,6 +20,7 @@ Here is a list of people I work or have worked with in the past.
 -   [Anders Johansen](https://portal.research.lu.se/en/persons/anders-johansen) - (joint [publications](https://tinyurl.com/yevg3d4))
 -   [Jane Luu](https://www.kavliprize.org/bio/jane-luu) - (joint [publications](https://tinyurl.com/qwupyq))
 -   [Rosita Kokotanekova](https://kokotanekova.wordpress.com) - (joint [publications](https://tinyurl.com/36uy9ewf))
+-   Raphael Marschall - (joint [publications](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3Aastronomy&q=%20author%3A%22Lacerda%2C%20p%22%20AND%20%20author%3A%22Marschall%22&sort=date%20desc%2C%20bibcode%20desc&p_=0))
 -   [Nuno Peixinho](http://iastro.pt/ia/newStaffDetails.html?ID=286) - (joint [publications](https://tinyurl.com/qppe3f))
 -   [Colin Snodgrass](https://www.roe.ac.uk/~csn/) - (joint [publications](https://tinyurl.com/y9b8939))
 -   [Scott Sheppard](https://sites.google.com/carnegiescience.edu/sheppard/home) - (joint [publications](https://tinyurl.com/pjeuyj))

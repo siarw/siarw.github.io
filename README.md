@@ -2,7 +2,7 @@
 <img style="padding: 10px;" src="figs/Pedro.jpeg" width=400 align="right"/>
 For the past twenty years, I have been employed in academia in five different countries, doing [research](research) in astronomy and astrophysics, and teaching mathematics, physics and astronomy.
 
-I am a member of the [Institute of Astrophysics](http://iastro.pt/) in Portugal aince 2022, and work at [NL Space Campus](https://www.nlspacecampus.eu) in the Netherlands as scientific coordinator and with the [ESA Space Solutions](https://space.ipn.pt) team at Instituto Pedro Nunes in Coimbra. I am part of the [ESA Comet Interceptor](https://www.cometinterceptor.space) science working group.
+I am a member of the [Institute of Astrophysics](http://iastro.pt/) in Portugal aince 2022, and a guest researcher at [Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy). I work at [NL Space Campus](https://www.nlspacecampus.eu) in the Netherlands as scientific coordinator for the [ESA Phi-Lab NL](https://www.esaphilab.nl), and with the [ESA Space Solutions](https://space.ipn.pt) team at Instituto Pedro Nunes in Coimbra. I am part of the [ESA Comet Interceptor](https://www.cometinterceptor.space) science working group.
 
 ## Education
 

@@ -28,4 +28,4 @@ Here is a list of people I work or have worked with in the past.
 -   [Bin Yang](https://astronomia.udp.cl/personas/bin-yang-starting-march-2022/) - (joint [publications](https://tinyurl.com/mr4eu4b4))
 
 
-Pedro Lacerda, December 2023
+Pedro Lacerda, July 2025

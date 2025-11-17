@@ -7,7 +7,7 @@ I am a guest researcher at [Leiden Observatory](https://www.universiteitleiden.n
 ## Education
 
 - Licenciado in Physics, 2000, [Universidade de Lisboa](https://ciencias.ulisboa.pt/), Portugal
-- PhD in Astrophysics, 2005, [Leiden University]([url](http://www.leidenuniv.nl/)http://www.leidenuniv.nl/), The Netherlands
+- PhD in Astrophysics, 2005, [Leiden University](https://www.universiteitleiden.nl), The Netherlands
 
 ## Recent Papers
 

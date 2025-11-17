@@ -4,7 +4,6 @@ Date: 2013-03-15 18:13
 Updated: 2023-12-22 13:22
 Author: Pedro Lacerda
 Slug: colleagues
-Status: hidden
 ---
 
 Here is a list of people I work or have worked with in the past.
@@ -22,6 +21,7 @@ Here is a list of people I work or have worked with in the past.
 -   [Rosita Kokotanekova](https://kokotanekova.wordpress.com) - (joint [publications](https://tinyurl.com/36uy9ewf))
 -   [Raphael Marschall](https://spacemarschall.net) - (joint [publications](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3Aastronomy&q=%20author%3A%22Lacerda%2C%20p%22%20AND%20%20author%3A%22Marschall%22&sort=date%20desc%2C%20bibcode%20desc&p_=0))
 -   [Nuno Peixinho](http://iastro.pt/ia/newStaffDetails.html?ID=286) - (joint [publications](https://tinyurl.com/qppe3f))
+-   [Susanne Pfalzner](https://www.fz-juelich.de/profile/pfalzner_s) - (joint [publications](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22Lacerda%2C%20p%22%20author%3A%22pfalzner%2C%20s%22&sort=date%20desc%2C%20bibcode%20desc&p_=0))
 -   [Colin Snodgrass](https://www.roe.ac.uk/~csn/) - (joint [publications](https://tinyurl.com/y9b8939))
 -   [Scott Sheppard](https://sites.google.com/carnegiescience.edu/sheppard/home) - (joint [publications](https://tinyurl.com/pjeuyj))
 -   [Rachel Stevenson](https://rachelstevensondotcom.wordpress.com) - (joint [publications](https://tinyurl.com/pbpeyx))

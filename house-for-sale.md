@@ -1,13 +1,15 @@
 ---
-Title: Lovely house for sale in a quiet village in central Portugal
+Title: Archived: House in central Portugal (sold)
 Author: Pedro Lacerda
 Slug: house-for-sale
 ---
 
-# Lovely house for sale in a quiet village in central Portugal
+# Archived listing: House in central Portugal (sold)
 
-<!-- <img src="figs/2023/08/huis-azival-00026.jpeg" width="500"> -->
-<img src="figs/2023/08/huis-azival-00006.jpeg">
+**Sold.** This listing is kept here as an archive.
+
+<!-- <img src="figs/2023/08/huis-azival-00026.jpeg" alt="Exterior of the house beside a gravel drive." width="500"> -->
+<img src="figs/2023/08/huis-azival-00006.jpeg" alt="Garden path leading toward the surrounding hills.">
 
 [Link naar Nederlandse beschrijving.](#beschrijving-in-het-nederlands) | [Link naar foto's.](#photos) | [Link naar plattegrond.](#floorplan-plattegrond)
 
@@ -164,65 +166,65 @@ Over het algemeen spreken Portugezen wel wat Engels, zeker de jongere generatie.
 ### Surroundings/Omgeving
 
 <video width="500px" controls="controls" src="figs/2023/08/huis-azival-00009.mov"></video>
-<img src="figs/2023/08/huis-azival-00004.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00006.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00007.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00008.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00010.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00012.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00004.jpeg" alt="View across the wooded hills and rooftops nearby." width="500">
+<img src="figs/2023/08/huis-azival-00006.jpeg" alt="Garden path leading toward the surrounding hills." width="500">
+<img src="figs/2023/08/huis-azival-00007.jpeg" alt="Wooded hillside seen from the house." width="500">
+<img src="figs/2023/08/huis-azival-00008.jpeg" alt="Village houses on a green hillside." width="500">
+<img src="figs/2023/08/huis-azival-00010.jpeg" alt="Bowl of freshly harvested olives." width="500">
+<img src="figs/2023/08/huis-azival-00012.jpeg" alt="Vegetable garden with rows of leafy plants." width="500">
 
 ### Garden/Tuin
 
-<img src="figs/2023/08/huis-azival-00001.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00002.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00003.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00013.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00014.jpeg" width="500">
-<img src="figs/2023/08/tuin-00001.JPG" width="500">
-<img src="figs/2023/08/tuin-00002.JPG" width="500">
-<img src="figs/2023/08/tuin-00003.JPG" width="500">
-<img src="figs/2023/08/tuin-00004.JPG" width="500">
-<img src="figs/2023/08/tuin-00005.JPG" width="500">
+<img src="figs/2023/08/huis-azival-00001.jpeg" alt="Garden terrace with a view of the surrounding green hills." width="500">
+<img src="figs/2023/08/huis-azival-00002.jpeg" alt="Flowering shrubs and trees in the garden." width="500">
+<img src="figs/2023/08/huis-azival-00003.jpeg" alt="Garden path bordered by flowering shrubs." width="500">
+<img src="figs/2023/08/huis-azival-00013.jpeg" alt="Close view of leafy vegetables growing in the garden." width="500">
+<img src="figs/2023/08/huis-azival-00014.jpeg" alt="Vegetable garden with several rows of crops." width="500">
+<img src="figs/2023/08/tuin-00001.JPG" alt="Vegetable garden with rows of leafy plants." width="500">
+<img src="figs/2023/08/tuin-00002.JPG" alt="Garden beds with vegetables and a small fruit tree." width="500">
+<img src="figs/2023/08/tuin-00003.JPG" alt="Garden beds planted with vegetables." width="500">
+<img src="figs/2023/08/tuin-00004.JPG" alt="Garden with a mix of shrubs and vegetables." width="500">
+<img src="figs/2023/08/tuin-00005.JPG" alt="Garden path bordered by greenery." width="500">
 
 ### Outdoors/Buiten
 
-<img src="figs/2023/08/huis-azival-00026.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00005.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00011.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00038.jpeg" width="500">
-<img src="figs/2023/08/buiten-00001.JPG" width="500">
-<img src="figs/2023/08/buiten-00002.JPG" width="500">
-<img src="figs/2023/08/buiten-00003.JPG" width="500">
-<img src="figs/2023/08/buiten-00004.JPG" width="500">
-<img src="figs/2023/08/huis-azival-00039.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00040.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00026.jpeg" alt="Exterior of the house beside a gravel drive." width="500">
+<img src="figs/2023/08/huis-azival-00005.jpeg" alt="View over the wooded valley from the house veranda." width="500">
+<img src="figs/2023/08/huis-azival-00011.jpeg" alt="Sunset over the hills near the house." width="500">
+<img src="figs/2023/08/huis-azival-00038.jpeg" alt="Open storage shed with tools and household items." width="500">
+<img src="figs/2023/08/buiten-00001.JPG" alt="Exterior view of the house and garden." width="500">
+<img src="figs/2023/08/buiten-00002.JPG" alt="House veranda and garden." width="500">
+<img src="figs/2023/08/buiten-00003.JPG" alt="House exterior with the veranda above the patio." width="500">
+<img src="figs/2023/08/buiten-00004.JPG" alt="Open garden shed beside the house." width="500">
+<img src="figs/2023/08/huis-azival-00039.jpeg" alt="Tiled roof of the open storage shed beside the house." width="500">
+<img src="figs/2023/08/huis-azival-00040.jpeg" alt="Exterior of the house and garden." width="500">
 
 ### Indoors/Binnen
-<img src="figs/2023/08/huis-azival-00015.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00016.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00017.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00018.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00019.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00020.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00021.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00022.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00023.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00024.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00025.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00027.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00028.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00029.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00030.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00031.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00032.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00033.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00034.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00035.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00036.jpeg" width="500">
-<img src="figs/2023/08/huis-azival-00037.jpeg" width="500">
+<img src="figs/2023/08/huis-azival-00015.jpeg" alt="Small bedroom with a double bed and blue accent wall." width="500">
+<img src="figs/2023/08/huis-azival-00016.jpeg" alt="Bedroom with two windows and a radiator." width="500">
+<img src="figs/2023/08/huis-azival-00017.jpeg" alt="Wooden wardrobe in a tiled room." width="500">
+<img src="figs/2023/08/huis-azival-00018.jpeg" alt="Utility room with washing machine and sink." width="500">
+<img src="figs/2023/08/huis-azival-00019.jpeg" alt="Bathroom with a sink and shower." width="500">
+<img src="figs/2023/08/huis-azival-00020.jpeg" alt="Toilet room with a patterned blue wall." width="500">
+<img src="figs/2023/08/huis-azival-00021.jpeg" alt="Bathroom vanity beneath two windows." width="500">
+<img src="figs/2023/08/huis-azival-00022.jpeg" alt="Walk-in shower with tiled walls." width="500">
+<img src="figs/2023/08/huis-azival-00023.jpeg" alt="Living room with sofa and fireplace." width="500">
+<img src="figs/2023/08/huis-azival-00024.jpeg" alt="Living room with sofa beside the fireplace." width="500">
+<img src="figs/2023/08/huis-azival-00025.jpeg" alt="Dining area with table and chairs beside the living room." width="500">
+<img src="figs/2023/08/huis-azival-00027.jpeg" alt="Kitchen with dining table and red cooker." width="500">
+<img src="figs/2023/08/huis-azival-00028.jpeg" alt="Open-plan kitchen and living area." width="500">
+<img src="figs/2023/08/huis-azival-00029.jpeg" alt="Open-plan kitchen and dining area." width="500">
+<img src="figs/2023/08/huis-azival-00030.jpeg" alt="Living room with stairs and patio doors." width="500">
+<img src="figs/2023/08/huis-azival-00031.jpeg" alt="Living room with a sofa facing the patio doors." width="500">
+<img src="figs/2023/08/huis-azival-00032.jpeg" alt="Green sofa in the living room." width="500">
+<img src="figs/2023/08/huis-azival-00033.jpeg" alt="Wooden staircase and landing." width="500">
+<img src="figs/2023/08/huis-azival-00034.jpeg" alt="Hallway leading to a bedroom." width="500">
+<img src="figs/2023/08/huis-azival-00035.jpeg" alt="Room with a desk and doors opening to the veranda." width="500">
+<img src="figs/2023/08/huis-azival-00036.jpeg" alt="Dining area with table and chairs." width="500">
+<img src="figs/2023/08/huis-azival-00037.jpeg" alt="Veranda with chairs and a view over the hills." width="500">
 
 ### Floorplan Plattegrond
 
-<img src="figs/2023/08/plattegrond.jpg">
-<img src="figs/2023/09/area.jpg">
+<img src="figs/2023/08/plattegrond.jpg" alt="Floor plan showing the layout of the house.">
+<img src="figs/2023/09/area.jpg" alt="Map showing the house location in the surrounding area.">
 

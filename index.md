@@ -1,3 +1,7 @@
+---
+title: Pedro Lacerda
+description: Research in astronomy and astrophysics, teaching, baking, and other professional background.
+---
 
 <img style="padding: 10px;" src="figs/Pedro.jpeg" width=400 align="right"/>
 For the past twenty years, I have been employed in academia in five different countries, doing [research](research) in astronomy and astrophysics, and teaching mathematics, physics and astronomy.
@@ -22,7 +26,7 @@ I am a guest researcher at [Leiden Observatory](https://www.universiteitleiden.n
 - Guest researcher at [Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy), 2025-now
 - Member of the [Institute of Astrophysics and Space Sciences](http://www.iastro.pt/), 2022-now
 - Technology Broker at [ESA Space Solutions Portugal](https://space.ipn.pt/), 2022-now
-- Founder, Researcher, Teacher and Baker at [Miolo](https://miolo.nl/), 2020-2021
+- Founder, Researcher, Teacher and Baker at [Miolo](miolo), 2020-2021
 - Lecturer at [Queen’s University Belfast](http://www.qub.ac.uk/), UK, 2016-2019
 - [Max Planck Research Group Leader](http://www.mpg.de/max_planck_research_groups), MPI for Solar System Research, Germany, 2013-2016
 - Michael West Research Fellow, [Queen’s University Belfast](http://www.qub.ac.uk/), UK, 2010-2013

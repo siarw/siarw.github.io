@@ -65,7 +65,7 @@ The flux ratio can thus be written in terms of spectral slope:
 
 Combining this result with equation (1), the color as a function of spectral slope is
 
-\$\$B-R = 2.5\log_{10}\!\left(
+\$\$B-R = 2.5\log_{10}\left(
 \frac{2+S'\Delta\lambda}{2-S'\Delta\lambda}
 \right).\$\$
 

@@ -24,7 +24,7 @@ Here, I derive the formula that relates spectral slope to broadband color. I wil
 
 The color \$B-R\$ and the ratio of reflected fluxes in the two bands are related by
 
-\$\$B-R = 2.5\log_{10}\!\left(\frac{F_R}{F_B}\right)
+\$\$B-R = 2.5\log_{10}\left(\frac{F_R}{F_B}\right)
 \quad\Longleftrightarrow\quad
 \frac{F_R}{F_B} = 10^{0.4(B-R)}.\tag{1}\$\$
 

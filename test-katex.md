@@ -3,21 +3,31 @@ Title: test math
 Author: Pedro Lacerda
 ---
 
-$$
+\$\$
 E=mc^2
-$$
+\$\$
 
-Will this $x=1$ render?
+Will this \$x=1\$ render?
 
-|-----------------+------------+-----------------+----------------|
 | Default aligned | Left aligned | Center aligned | Right aligned |
-| --------------- | :----------- | :------------: | ------------: |
-| First body part | Second cell  |   Third cell   |   fourth cell |
-| Second line     | foo          |   **strong**   |           baz |
-| Third line      | quux         |      baz       |           bar |
-| ----------------+--------------+----------------+-------------- |
-| Second body                                                       |              |                |               |
-| 2 line                                                            |              |                |               |
-| =================+============+=================+================ |
-| Footer row                                                        |              |                |               |
-| -----------------+------------+-----------------+---------------- |
+| --- | :--- | :---: | ---: |
+| First body part | Second cell | Third cell | fourth cell |
+| Second line | foo | **strong** | baz |
+| Third line | quux | baz | bar |
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.19.1/dist/katex.min.css" integrity="sha384-WwGtaC6ywCHxA5cstpj/3+xIZvTez8dq2IcBQaXRkenHZ7FVVq1ZROtURwfbtTlG" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.19.1/dist/katex.min.js" integrity="sha384-a1WQdjRj162i159OYq041X6I4K8NenkrI09LlPmiHg0YOb7CR+wJOraXwK9abpnE" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.19.1/dist/contrib/auto-render.min.js" integrity="sha384-bjyGPfbij8/NDKJhSGZNP/khQVgtHUE5exjm4Ydllo42FwIgYsdLO2lXGmRBf5Mz" crossorigin="anonymous"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  renderMathInElement(document.body, {
+    delimiters: [
+      { left: "$$", right: "$$", display: true },
+      { left: "$", right: "$", display: false },
+      { left: "\\(", right: "\\)", display: false },
+      { left: "\\[", right: "\\]", display: true }
+    ],
+    throwOnError: false
+  });
+});
+</script>

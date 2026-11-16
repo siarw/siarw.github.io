@@ -38,7 +38,7 @@ Slug: miolo
 <section class="miolo-about">
 <h2>About me</h2>
 <p>I was born and grew up in Portugal. Since 2000, I have lived in eight different cities in the Netherlands, the United States, the United Kingdom, and Germany.</p>
-<p>I studied engineering, physics, and astronomy, and have worked as a scientist doing <a href="/research/">research in astronomy</a> and teaching at universities. I have also given private mathematics and physics lessons, many of them online during the pandemic.</p>
+<p>I studied engineering, physics, and astronomy, and have worked as a scientist doing <a href="/research">research in astronomy</a> and teaching at universities. I have also given private mathematics and physics lessons, many of them online during the pandemic.</p>
 <p>Bread is one of the foundations of Portuguese food. I have always loved bread, and in recent years I began baking it obsessively.</p>
 </section>
 </main>

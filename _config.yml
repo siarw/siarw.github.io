@@ -7,7 +7,7 @@
 title: Pedro Lacerda's homepage
 
 # Short bio or description (displayed in the header)
-description: January 2026
+description: Updated November 2026
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -83,7 +83,7 @@ show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
 
 exclude:
-  - miolo/
+  # - miolo/
 
 github:
   is_project_page: false # remove view on GitHub button

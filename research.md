@@ -42,7 +42,7 @@ My research deals with physical properties of small bodies of the solar system, 
 - PAPER [Comet formation in collapsing pebble clouds](http://dx.doi.org/10.1051/0004-6361/201526565) \[…\] ([PDF](http://arxiv.org/pdf/1601.05726v1.pdf))
 - EXHIBITION [Royal Society Summer Science Exhibition - A Comet Revealed](https://goo.gl/CDQJsi)
 
-See older entries in [Archive](archive)
+See older entries in the [Science Archive](science-archive).
 
 Back to [Research](research).
 

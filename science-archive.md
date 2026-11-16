@@ -1,12 +1,12 @@
 ---
-Title: Archive of News, Results and Publications
+Title: Science Archive
 Date: 2015-06-21 10:27
 Author: lacerdapedro
-Slug: archive
+Slug: science-archive
 Status: published
 ---
 
-# Archive
+# Science Archive
 
 - [PAPER] [Sputtering of oxygen ice by low energy ions](https://ui.adsabs.harvard.edu/?#abs/2015SurSc.641..204M) ([PDF](http://arxiv.org/pdf/1507.07906.pdf))
 - Page with plots on [resolved KBO binaries](resolved-binaries).
